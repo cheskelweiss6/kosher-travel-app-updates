@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Privacy | Kosher Travel</title>
+<meta name="description" content="What Kosher Travel stores about you and why, in plain words.">
+<link rel="canonical" href="https://www.yourkoshertravel.com/privacy">
+<meta name="robots" content="index, follow">
+<link rel="icon" href="/favicon.ico">
+<style>
+:root{--navy:#191e3b}
+*{box-sizing:border-box}
+body{margin:0;background:#fff;color:#1e293b;font:16px/1.65 "Plus Jakarta Sans",system-ui,-apple-system,Segoe UI,Roboto,sans-serif;-webkit-text-size-adjust:100%}
+header{border-bottom:1px solid #e2e8f0;padding:12px 20px}
+header a{color:var(--navy);font-weight:700;text-decoration:none;display:inline-flex;align-items:center;min-height:44px}
+main{max-width:720px;margin:0 auto;padding:24px 20px 40px}
+h1{font-family:Lora,Georgia,"Times New Roman",serif;color:var(--navy);font-size:32px;line-height:1.2;margin:8px 0 4px}
+h2{font-family:Lora,Georgia,"Times New Roman",serif;color:var(--navy);font-size:21px;margin:32px 0 8px;padding-top:16px;border-top:1px solid #e2e8f0}
+p,li{color:#334155}
+ul{padding-left:22px}
+a{color:var(--navy)}
+.meta{color:#64748b;font-size:14px;margin:0 0 20px}
+footer{border-top:1px solid #e2e8f0;text-align:center;color:#64748b;font-size:13px;padding:18px 20px 32px}
+footer a{display:inline-flex;align-items:center;min-height:44px;padding:0 10px;color:#475569}
+</style>
+</head>
+<body>
+<header><a href="/">&larr;&nbsp; Kosher Travel</a></header>
+<main>
+<h1>Privacy</h1>
+<p class="meta">Last updated: October 23, 2026</p>
+<p>This page explains, in plain words, what the Kosher Travel website (www.yourkoshertravel.com) and the Kosher Travel iPhone app keep about you and why. The app and the website use the same account and the same data.</p>
+
+<h2>What we store</h2>
+<ul>
+<li><strong>Your account.</strong> If you sign in (with email, Google or Apple), we keep your name, email address and profile photo from your sign-in, plus your user id. If you use Sign in with Apple and choose to hide your email, we only see the private relay address Apple gives us.</li>
+<li><strong>What you save.</strong> Your bucket list, saved trips, planner chats, kosher preferences and similar lists are stored with your account so they follow you to other devices. Some are also kept on your phone or computer so the site works on a weak connection.</li>
+<li><strong>What you post.</strong> Stories, photos, videos, comments, likes and reviews you post are shown publicly on the site with your name and photo.</li>
+<li><strong>Reports.</strong> When you report a post, we keep which post, the reason, the time and your user id, so one person counts only once. The post's author is never told who reported it, and the email the owner receives about a report does not include your name or email.</li>
+<li><strong>Messages.</strong> When you use Contact us, we keep your message and the name and email you choose to give, and email them to the site owner so he can read and reply.</li>
+</ul>
+
+<h2>The AI trip planner</h2>
+<p>The AI planner receives only what you type in that chat and the trip filters you pick on screen. It does not receive your name, email, profile, saved kosher preferences, saved lists, location or anything else from your account.</p>
+<p>What you type is sent through our own server to an AI service (Google Gemini) that writes the answer, and the answer is sent back to you. In the iPhone app, the planner tells you this and asks for your OK once, before your first question is sent. Please don't type anything private into the planner.</p>
+
+<h2>Services we use</h2>
+<p>The site is hosted on Vercel. Accounts and saved data are stored with Google Firebase. AI planner answers are generated with Google Gemini. Report and Contact us emails are delivered through FormSubmit. Anonymous visit statistics are counted with Vercel Analytics on the website only; the app does not count visits. These services handle data only to run the site and the app.</p>
+<p>We don't track you across other companies' apps or websites. Links to hotel booking sites (Expedia and Hotels.com) are plain links: if you tap one, that site may know you came from us, but we don't send it anything about you.</p>
+
+<h2>What we don't do</h2>
+<p>We don't sell your personal information, and we don't share it with advertisers.</p>
+
+<h2>Your choices</h2>
+<p>You can delete your own posts and comments at any time.</p>
+<p><strong>Deleting your account.</strong> You can delete your account yourself, on the website or in the app: open your profile, tap Settings, then Delete account. This deletes your sign-in and the data that goes with it: your posts and their photos and videos, your comments, likes and reviews, your profile photo, who you follow, your saved posts, trips, planner chats and preferences. Reports you sent stay private with the site owner. You can also email <a href="mailto:yourkoshertravel@gmail.com">yourkoshertravel@gmail.com</a> to have your account deleted, or to ask what we hold about you.</p>
+
+<h2>Contact</h2>
+<p><a href="mailto:yourkoshertravel@gmail.com">yourkoshertravel@gmail.com</a>, or <a href="/?contact=1">Contact us</a> on the site. Help: <a href="/support">Support</a>. See also our <a href="/terms">Terms of Use</a>.</p>
+</main>
+<footer>
+<div>&copy; 2026 Kosher Travel. All rights reserved.</div>
+<nav aria-label="Legal"><a href="/terms">Terms</a> &middot; <a href="/privacy">Privacy</a> &middot; <a href="/support">Support</a> &middot; <a href="/?contact=1">Contact us</a></nav>
+</footer>
+</body>
+</html>
