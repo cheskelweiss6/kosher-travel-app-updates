@@ -1,0 +1,502 @@
+[
+ {
+  "file": "tokyo__hero-skyline.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Minato_City,_Tokyo,_Japan.jpg",
+  "credit": "David Kernan, CC BY 4.0 (Wikimedia Commons)"
+ },
+ {
+  "file": "tokyo__skytree.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Tokyo_Skytree_20170208.jpg",
+  "credit": "Suicasmo, CC BY-SA 4.0 (Wikimedia Commons)"
+ },
+ {
+  "file": "tokyo__shinjuku-gyoen.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Shinjuku_Gyoen_National_Garden_and_NTT_DoCoMo_Yoyogi_Building,_Tokyo,_Japan.jpg",
+  "credit": "Basile Morin, CC BY-SA 4.0 (Wikimedia Commons)"
+ },
+ {
+  "file": "tokyo__national-museum.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Hyokeikan_of_the_Tokyo_National_Museum_20170208.jpg",
+  "credit": "Suicasmo, CC BY-SA 4.0 (Wikimedia Commons)"
+ },
+ {
+  "file": "tokyo__imperial-palace-east-gardens.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:The_East_Gardens_of_the_Imperial_Palace_(Edo_Castle_Ruin)_entrance_by_Don_Ramey_Logan.jpg",
+  "credit": "Don Ramey Logan, CC BY-SA 4.0 (Wikimedia Commons)"
+ },
+ {
+  "file": "kyoto__hero-arashiyama-katsura-river.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Togetsukyo_Bridge,_Arashiyama,_Kyoto,_Japan,_aerial_photograph_by_Don_Ramey_Logan.jpg",
+  "credit": "Don Ramey Logan, CC BY 4.0 (Wikimedia Commons)"
+ },
+ {
+  "file": "kyoto__arashiyama-bamboo-grove.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:2021_Sagano_Bamboo_forest_in_Arashiyama,_Kyoto,_Japan.jpg",
+  "credit": "Naokijp, CC BY-SA 4.0 (Wikimedia Commons)"
+ },
+ {
+  "file": "kyoto__nijo-castle.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Ninomaru_Palace,_November_2016.jpg",
+  "credit": "Martin Falbisoner, CC BY-SA 4.0 (Wikimedia Commons)"
+ },
+ {
+  "file": "kyoto__imperial-palace.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Kyoto-gosho_Shishinden_zenkei-5.jpg",
+  "credit": "Saigen Jiro, CC0 (Wikimedia Commons)"
+ },
+ {
+  "file": "osaka__hero-nakanoshima-skyline.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Nakanoshima_Skyscrapers_in_201409_001.jpg",
+  "credit": "Mc681, CC BY-SA 4.0 (Wikimedia Commons)"
+ },
+ {
+  "file": "osaka__osaka-castle-park.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Osaka_Castle_Outer_Moat_and_Osaka_Business_Park,_November_2016.jpg",
+  "credit": "Martin Falbisoner, CC BY-SA 4.0 (Wikimedia Commons)"
+ },
+ {
+  "file": "osaka__kaiyukan-aquarium.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Osaka_Aquarium_%22Kaiyukan%22_20190201-2.jpg",
+  "credit": "そらみみ, CC BY-SA 4.0 (Wikimedia Commons)"
+ },
+ {
+  "file": "osaka__umeda-sky-building.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Umeda_Sky_Building,_Osaka,_November_2016_-01.jpg",
+  "credit": "Martin Falbisoner, CC BY-SA 4.0 (Wikimedia Commons)"
+ },
+ {
+  "file": "seoul__hero-han-river-skyline.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Han_River_Seoul_skyline_Pixabay_1214950.jpg",
+  "credit": "USAGI_POST, CC0 (Wikimedia Commons)"
+ },
+ {
+  "file": "seoul__gyeongbokgung-palace.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Front_view_of_the_Imperial_Throne_Hall_Geunjeongjeon_at_Gyeongbokgung_Palace_with_blue_sky_in_Seoul.jpg",
+  "credit": "Basile Morin, CC BY-SA 4.0 (Wikimedia Commons)"
+ },
+ {
+  "file": "seoul__n-seoul-tower.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Seoul_Aerial_Shot_08.jpg",
+  "credit": "Republic of  Korea, CC BY-SA 2.0 (Wikimedia Commons)"
+ },
+ {
+  "file": "seoul__cheonggyecheon-stream.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Cheonggyecheon_stream_at_sunrise_with_trees_in_Seoul.jpg",
+  "credit": "Basile Morin, CC BY-SA 4.0 (Wikimedia Commons)"
+ },
+ {
+  "file": "taipei__hero-taipei-101-skyline.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:View_from_Elephant_Mountain,_Taipei,_Taiwan_2015.jpg",
+  "credit": "Sonse, CC BY 2.0 (Wikimedia Commons)"
+ },
+ {
+  "file": "taipei__national-palace-museum.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:National_Palace_Museum,_Taipei_04.jpg",
+  "credit": "Gary Lee Todd, Ph.D., CC0 (Wikimedia Commons)"
+ },
+ {
+  "file": "taipei__elephant-mountain-view.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Taipei_skyline_from_Elephant_Mountain.jpg",
+  "credit": "Mondoman712, CC BY-SA 4.0 (Wikimedia Commons)"
+ },
+ {
+  "file": "taipei__yangmingshan.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Yangmingshan_National_Park-Guoru-002.jpg",
+  "credit": "Guoru1222, CC BY-SA 4.0 (Wikimedia Commons)"
+ },
+ {
+  "file": "hong-kong__hero-victoria-harbour.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Hong_Kong_Skyscrapers.jpg",
+  "credit": "Estial, CC BY-SA 4.0 (Wikimedia Commons)"
+ },
+ {
+  "file": "hong-kong__victoria-peak-view.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:HongKong_view_from_Victoria_Peak.jpg",
+  "credit": "This photo was taken by Anton Zelenov.\nPlease credit this with : Photo : Anton Z, CC BY-SA 3.0 (Wikimedia Commons)"
+ },
+ {
+  "file": "hong-kong__star-ferry.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Northern_Star,_Victoria_Harbour,_2006_(01).jpg",
+  "credit": "Bahnfrend, CC BY-SA 4.0 (Wikimedia Commons)"
+ },
+ {
+  "file": "hong-kong__ocean-park-cable-car.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Ocean_Park_cable_car.jpg",
+  "credit": "No machine-readable author provided. Enochlau assumed (based on copyright claims, CC BY-SA 3.0 (Wikimedia Commons)"
+ },
+ {
+  "file": "shanghai__hero-pudong-skyline.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Pudong_Shanghai_November_2017_panorama.jpg",
+  "credit": "King of Hearts, CC BY-SA 4.0"
+ },
+ {
+  "file": "shanghai__the-bund.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Shanghai-Bund-54-HSBC-Zentrale-2012-gje.jpg",
+  "credit": "Gerd Eichmann, CC BY-SA 4.0"
+ },
+ {
+  "file": "shanghai__shanghai-jewish-refugees-museum.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Shanghai_Jewish_Refugees_Museum_courtyard.jpg",
+  "credit": "Difference engine, CC BY-SA 4.0"
+ },
+ {
+  "file": "shanghai__shanghai-tower.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Shanghai_-_Shanghai_Tower_-_0003.jpg",
+  "credit": "Stefan Fussan, CC BY-SA 3.0"
+ },
+ {
+  "file": "beijing__hero-forbidden-city.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Views_of_the_Forbidden_City_from_Jingshan_Park_2.jpg",
+  "credit": "EditQ, CC BY-SA 4.0"
+ },
+ {
+  "file": "beijing__mutianyu-great-wall.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Great_Wall_of_China_July_2006.JPG",
+  "credit": "Velatrix, CC0"
+ },
+ {
+  "file": "beijing__olympic-park-birds-nest.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Beijing_Olympic_Park_(54051517551).jpg",
+  "credit": "xiquinhosilva, CC BY 2.0"
+ },
+ {
+  "file": "singapore__hero-singapore-river-skyline.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Skyline,_Marina_Bay,_Singapur,_2023-08-17,_DD_20.jpg",
+  "credit": "Diego Delso, CC BY-SA 4.0"
+ },
+ {
+  "file": "singapore__gardens-by-the-bay.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Singapore_(SG),_Gardens_By_The_Bay_--_2019_--_4755.jpg",
+  "credit": "Dietmar Rabich, CC BY-SA 4.0"
+ },
+ {
+  "file": "singapore__botanic-gardens.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Branches_of_a_Ficus_kurzii_reflecting_in_the_water_at_Singapore_Botanic_Gardens.jpg",
+  "credit": "Basile Morin, CC BY-SA 4.0"
+ },
+ {
+  "file": "singapore__singapore-zoo.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Elephas_maximus_in_Singapore_Zoo,_20240206_0857_6202.jpg",
+  "credit": "Jakub Hałun, CC BY 4.0"
+ },
+ {
+  "file": "manila__hero-makati-skyline.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Makati_skyline_-_Poblacion,_Makati_(2018-02-20).jpg",
+  "credit": "Patrick Roque ( talk ) ( Uploads ), CC BY-SA 4.0"
+ },
+ {
+  "file": "manila__rizal-park.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Rizal_Monument_at_Rizal_Park.jpg",
+  "credit": "Maynard Rabanal ( Greedyplus ), CC BY-SA 3.0"
+ },
+ {
+  "file": "manila__manila-ocean-park.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Spider_crab_at_manila_ocean_park.jpg",
+  "credit": "User:Tsarli (Charles Laigo) at en.wikipedia, CC BY-SA 3.0"
+ },
+ {
+  "file": "manila__manila-bay-sunset.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Manila_Sunset_(33935113618).jpg",
+  "credit": "David Stanley from Nanaimo, Canada, CC BY 2.0"
+ },
+ {
+  "file": "kuala-lumpur__hero-kl-skyline.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-03.jpg",
+  "credit": "CEphoto, Uwe Aranas, CC BY-SA 3.0"
+ },
+ {
+  "file": "kuala-lumpur__petronas-twin-towers.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg",
+  "credit": "James Kerwin from Tbilisi, CC BY 2.0"
+ },
+ {
+  "file": "kuala-lumpur__klcc-park.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Fountain_in_KLCC_Park_(230812-1254).jpg",
+  "credit": "Wee Hong, CC BY-SA 4.0"
+ },
+ {
+  "file": "kuala-lumpur__perdana-botanical-gardens.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Perdana_Botanical_Gardens_in_2023.jpg",
+  "credit": "Renek78, CC BY-SA 4.0"
+ },
+ {
+  "file": "bali__hero-rice-terraces.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Rice_terraces,_Bali.jpg",
+  "credit": "Vyacheslav Argenberg, CC BY 4.0"
+ },
+ {
+  "file": "bali__mount-batur.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Gunung_Batur_Kintamani_Bali.jpg",
+  "credit": "Denny Octora, CC BY-SA 4.0"
+ },
+ {
+  "file": "bali__tegenungan-waterfall.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Tegenungan_Waterfall_in_the_jungle_of_Bali_island._Indonesia._(27813152747).jpg",
+  "credit": "Artem Beliaikin from Moscow, Russia, CC0"
+ },
+ {
+  "file": "bali__kelingking-beach-nusa-penida.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Kelingking_Beach_(T-Rex_Bay)_of_Nusa_Penida,_Bali_(2025)_-_img_05.jpg",
+  "credit": "Chainwit., CC BY 4.0"
+ },
+ {
+  "file": "mumbai__hero-mumbai.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Mumbai_03-2016_27_skyline_at_Marine_Drive.jpg",
+  "credit": "A.Savin, FAL"
+ },
+ {
+  "file": "mumbai__gateway-of-india.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Panoramic_view_of_Taj_Palace_Hotel_and_Taj_Tower_with_the_iconic_Gateway_of_India_in_the_background.jpg",
+  "credit": "iMahesh, CC BY-SA 4.0"
+ },
+ {
+  "file": "mumbai__knesset-eliyahoo.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Knesset_Eliyahoo,_Mumbai.jpg",
+  "credit": "Kushared (Mohammed Sardar), CC BY-SA 4.0"
+ },
+ {
+  "file": "mumbai__sanjay-gandhi-np.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Shilonda_stream_in_Sanjay_Gandhi_National_Park,_Mumbai-_NinadVBhosale.jpg",
+  "credit": "Ninad Bhosale, CC BY-SA 2.0"
+ },
+ {
+  "file": "new-delhi__hero-new-delhi.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:India_Gate_-_Delhi_(37282946605).jpg",
+  "credit": "Mike_fleming from London, England, CC BY-SA 2.0"
+ },
+ {
+  "file": "new-delhi__red-fort.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Red_Fort_in_Delhi_03-2016_img3.jpg",
+  "credit": "A.Savin, FAL"
+ },
+ {
+  "file": "new-delhi__india-gate.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:India_Gate,_New_Delhi.jpg",
+  "credit": "Yann, CC BY-SA 3.0"
+ },
+ {
+  "file": "new-delhi__lodi-gardens.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:A_street_in_Lodhi_Gardens,_Delhi.jpg",
+  "credit": "Slyronit, CC BY-SA 4.0"
+ },
+ {
+  "file": "goa__hero-goa.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Rocks_on_Palolem_Beach_South_Goa.jpg",
+  "credit": "Vachary, CC BY-SA 4.0"
+ },
+ {
+  "file": "goa__palolem-beach.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Goa_Palolem_beach_sunset.jpg",
+  "credit": "Mmedabo, CC BY-SA 4.0"
+ },
+ {
+  "file": "goa__dudhsagar.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Dudhsagar_falls_(4266264965).jpg",
+  "credit": "soumyajit pramanick, CC BY-SA 2.0"
+ },
+ {
+  "file": "goa__cabo-de-rama.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:A_boat_sailing_through_the_Arabina_sea_from_Cabo_de_Rama_Fort.jpg",
+  "credit": "iMahesh, CC BY-SA 4.0"
+ },
+ {
+  "file": "dharamsala__hero-dharamsala.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Dhauladhar_mountain_ranges,view_from_Dharamshala.jpg",
+  "credit": "Harvinder Chandigarh, CC BY-SA 4.0"
+ },
+ {
+  "file": "dharamsala__triund.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Triund_(16100162457).jpg",
+  "credit": "Ashish Gupta from Noida, India, CC BY 2.0"
+ },
+ {
+  "file": "dharamsala__bhagsu-falls.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Bhagsu_waterfall.jpg",
+  "credit": "Harnoor.singh.11, CC BY-SA 4.0"
+ },
+ {
+  "file": "dharamsala__hpca-stadium.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Dharamshala_stadium,himachal_pradesh.jpg",
+  "credit": "Jms1241, CC BY-SA 4.0"
+ },
+ {
+  "file": "dharamsala__kangra-fort.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Kangra_Fort_Passage.JPG",
+  "credit": "Abhijit Saggu, CC BY-SA 3.0"
+ },
+ {
+  "file": "kasol__hero-kasol.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Parvati_Valley_river_kasol.jpg",
+  "credit": "Alok Kumar, CC BY-SA 4.0"
+ },
+ {
+  "file": "kasol__parvati-river.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Water_stream_in_Kasol_Parvati_Valley.jpg",
+  "credit": "Vikrant, CC BY-SA 4.0"
+ },
+ {
+  "file": "kasol__tosh.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Tosh_View_Parbati_Kutla_Trail_Himachal_Nov21_D72_21092.jpg",
+  "credit": "This Photo was taken by Timothy A. Gonsalves.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page, for my information.  Please contact me before commercial use.\n\n\n\nPlease do not upload an edited image here without consulting me.  I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract., CC BY-SA 4.0"
+ },
+ {
+  "file": "kasol__kheerganga.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:KHEERGANGA_TREK.jpg",
+  "credit": "Diva gupta, CC BY-SA 4.0"
+ },
+ {
+  "file": "kathmandu__hero-kathmandu.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_Kathmandu_Valley-070A1871.jpg",
+  "credit": "Bijay Chaurasia, CC BY-SA 4.0"
+ },
+ {
+  "file": "kathmandu__garden-of-dreams.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Kathmandu-Garden_of_Dreams-38-Loewenmaul-2013-gje.jpg",
+  "credit": "Gerd Eichmann, CC BY-SA 4.0"
+ },
+ {
+  "file": "kathmandu__narayanhiti.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Narayanhiti_Palace_Museum,_crop.jpg",
+  "credit": "Suraj Belbase, CC BY-SA 4.0"
+ },
+ {
+  "file": "kathmandu__nagarkot.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:@_Nagarkot.jpg",
+  "credit": "Navina Dulal, CC BY-SA 3.0"
+ },
+ {
+  "file": "colombo__hero-colombo.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Colombo_Skyline_Jan_2022.jpg",
+  "credit": "XKillSwitchXxx, CC BY-SA 4.0"
+ },
+ {
+  "file": "colombo__galle-face.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Galle_Face_Green_-_sunset.jpg",
+  "credit": "Mrhnet, CC BY-SA 4.0"
+ },
+ {
+  "file": "colombo__lotus-tower.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Blue_lotus_tower.jpg",
+  "credit": "Mohamed Rilwan1210, CC BY-SA 4.0"
+ },
+ {
+  "file": "colombo__national-museum.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:SL_Colombo_asv2020-01_img10_National_Museum.jpg",
+  "credit": "A.Savin, FAL"
+ },
+ {
+  "file": "bangkok__hero-skyline.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Bangkok_skytrain_sunset.jpg",
+  "credit": "User:Diliff, CC BY-SA 3.0"
+ },
+ {
+  "file": "bangkok__lumphini-park.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Lumphini_Park_(I).jpg",
+  "credit": "\n\n\n This Photo was taken by Supanut Arunoprayote.\n\nFeel free, CC BY 4.0"
+ },
+ {
+  "file": "bangkok__jim-thompson-house.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:JT_House_-_Jim_Thompson_House,_Bangkok_-_Thailand_-_panoramio.jpg",
+  "credit": "David Broad, CC BY 3.0"
+ },
+ {
+  "file": "bangkok__mahanakhon-skywalk.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:MahaNakhon_Tower_unfinished_(Bangkok_Thailand)_(20275977358).jpg",
+  "credit": "tongeron91, CC BY-SA 2.0"
+ },
+ {
+  "file": "phuket__hero-phang-nga-bay.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Phang_Nga_Bay,_Koh_Tapu,_Thailand.jpg",
+  "credit": "Vyacheslav Argenberg, CC BY 4.0"
+ },
+ {
+  "file": "phuket__promthep-cape.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Promthep_Cape_04.jpg",
+  "credit": "ADwarf, Public domain"
+ },
+ {
+  "file": "phuket__old-town.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Phuket_old_town_(52549766215).jpg",
+  "credit": "Mussi Katz from Israel, CC0"
+ },
+ {
+  "file": "chiang-mai__hero-old-city-moat.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Chiang_Mai_-_Chiang_Mai_Moat_-_0005.jpg",
+  "credit": "Stefan Fussan, CC BY-SA 3.0"
+ },
+ {
+  "file": "chiang-mai__doi-inthanon.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:1006_Doi_Inthanon_1.jpg",
+  "credit": "BerryJ, CC BY-SA 4.0"
+ },
+ {
+  "file": "chiang-mai__elephant-nature-park.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Elephant_d%27Asie_(Elephant_nature_park,_Tha%C3%AFlande).jpg",
+  "credit": "Chirstelle EL JAMALI, CC BY 4.0"
+ },
+ {
+  "file": "chiang-mai__tha-phae-gate.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Tha_Phae_Gate_2.jpg",
+  "credit": "Christophe95, CC BY-SA 4.0"
+ },
+ {
+  "file": "koh-samui__hero-ang-thong.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Mu_Ko_Ang_Thong,_Islands_in_the_sea_2,_Thailand.jpg",
+  "credit": "Vyacheslav Argenberg, CC BY 4.0"
+ },
+ {
+  "file": "koh-samui__ang-thong-marine-park.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Mu_Ko_Ang_Thong,_Bay_2,_Thailand.jpg",
+  "credit": "Vyacheslav Argenberg, CC BY 4.0"
+ },
+ {
+  "file": "koh-samui__na-muang-waterfall.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:TH-ko-samui-namuang2-wasserfall.jpg",
+  "credit": "Balou46, CC BY-SA 3.0"
+ },
+ {
+  "file": "hanoi__hero-skyline.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Hanoi_Skyline_-_NKS.jpg",
+  "credit": "NKSTTSSHNVN, CC BY-SA 4.0"
+ },
+ {
+  "file": "hanoi__museum-of-ethnology.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Vietnam_Museum_of_Ethnology_(26286953736).jpg",
+  "credit": "katiebordner, CC BY 2.0"
+ },
+ {
+  "file": "hanoi__ha-long-bay.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Halong_Bay_in_Vietnam.jpg",
+  "credit": "Thomas Hirsch / User:Ravn, CC BY-SA 3.0"
+ },
+ {
+  "file": "ho-chi-minh-city__hero-saigon-river.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Ho_Chi_Minh_City_Skyline_at_Night.jpg",
+  "credit": "Tran Van Ngoc, CC0"
+ },
+ {
+  "file": "ho-chi-minh-city__independence-palace.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:20190923_Independence_Palace-10.jpg",
+  "credit": "\nBalon Greyjoy, CC0"
+ },
+ {
+  "file": "ho-chi-minh-city__saigon-skydeck.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Bitexco_Financial_Tower,_Ciudad_Ho_Chi_Minh,_Vietnam,_2013-08-14,_DD_05.JPG",
+  "credit": "Diego Delso, CC BY-SA 3.0"
+ },
+ {
+  "file": "ho-chi-minh-city__mekong-delta.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:BoatOnBoat@Mekong-VNM.jpg",
+  "credit": "BacLuong, CC BY-SA 4.0"
+ },
+ {
+  "file": "siem-reap__hero-siem-reap-river.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Siem_Reap_River_in_Siem_Reap.jpg",
+  "credit": "Christophe95, CC BY-SA 4.0"
+ },
+ {
+  "file": "siem-reap__kampong-phluk.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Kampong_Phlouk_(28).jpg",
+  "credit": "Krzysztof Golik, CC BY-SA 4.0"
+ }
+]

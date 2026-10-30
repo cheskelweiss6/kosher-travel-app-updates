@@ -1,0 +1,35 @@
+[
+ {
+  "card": "Portland, Oregon",
+  "photo": "/places/portland-oregon.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Portland_from_Pittock_Mansion_October_2019_panorama_2.jpg",
+  "file": "File:Portland from Pittock Mansion October 2019 panorama 2.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "King of Hearts"
+ },
+ {
+  "card": "Coeur d'Alene, Idaho",
+  "photo": "/places/coeur-d-alene-idaho.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:East_Coeur_d_Alene_Lake_Drive_(23287867353).jpg",
+  "file": "File:East Coeur d Alene Lake Drive (23287867353).jpg",
+  "license": "CC BY 2.0",
+  "author": "David Taylor from Coeur d Alene, United States"
+ },
+ {
+  "card": "Passaic, New Jersey",
+  "photo": "/places/passaic-new-jersey.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Third_Ward_Park,_Passaic,_N._J._(8509247575).jpg",
+  "file": "File:Third Ward Park, Passaic, N. J. (8509247575).jpg",
+  "license": "CC BY 2.0",
+  "author": "Boston Public Library"
+ },
+ {
+  "card": "Cape Town, South Africa",
+  "photo": "/places/cape-town-table-mountain.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Table_Mountain_DanieVDM.jpg",
+  "file": "File:Table Mountain DanieVDM.jpg",
+  "license": "CC BY 2.0",
+  "author": "Danie van der Merwe from Cape Town, South Africa",
+  "note": "cropped to the mountain and bay"
+ }
+]
