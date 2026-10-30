@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <!-- Store app only (iPhone / Android): marks the page before it draws so the app's own layout rules apply
+         (status bar and home-indicator space, see "Store app" in src/index.css). On the website this does nothing. -->
+    <script>try{var C=window.Capacitor;if(C&&C.isNativePlatform&&C.isNativePlatform()){document.documentElement.classList.add('native-app','native-'+C.getPlatform());}}catch(e){}</script>
+    <script>try{var S=window.__KT_SHELL__;if(S&&typeof S.screen==='string'){document.documentElement.classList.add('kt-shell','native-app','native-ios',S.layout==='full'?'kt-shell-full':'kt-shell-bar');}}catch(e){}</script>
+    <title>Kosher Travel Guide & Planner</title>
+    <meta name="description" content="Kosher travel guide and trip planner: kosher restaurants, shuls, hotels and things to do across the US and Caribbean, with an AI trip planner." />
+    <link rel="preconnect" href="https://firestore.googleapis.com" crossorigin />
+    <link rel="preconnect" href="https://firebasestorage.googleapis.com" crossorigin />
+    <link rel="canonical" href="https://www.yourkoshertravel.com/" />
+    <!-- Google Search Console verification tag goes here (google-site-verification) -->
+    <meta name='impact-site-verification' value='21d1357a-caf8-4574-a6f7-40878079ef51'>
+
+    <!-- Open Graph / Twitter -->
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Kosher Travel" />
+    <meta property="og:title" content="Kosher Travel Guide & Planner" />
+    <meta property="og:description" content="Kosher travel guide and trip planner: kosher restaurants, shuls, hotels and things to do across the US and Caribbean, with an AI trip planner." />
+    <meta property="og:url" content="https://www.yourkoshertravel.com/" />
+    <meta property="og:image" content="https://www.yourkoshertravel.com/icon-512.png" />
+    <meta property="og:image:width" content="512" />
+    <meta property="og:image:height" content="512" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="Kosher Travel Guide & Planner" />
+    <meta name="twitter:description" content="Kosher travel guide and trip planner: kosher restaurants, shuls, hotels and things to do across the US and Caribbean, with an AI trip planner." />
+    <meta name="twitter:image" content="https://www.yourkoshertravel.com/icon-512.png" />
+    
+    <!-- iOS Home Screen / PWA Support -->
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="Kosher Travel" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="theme-color" content="#ffffff" />
+    
+    <!-- Fonts are served from this site (src/fonts, see index.css): no extra connections; text shows at once in the
+         phone's own font and switches when they arrive (a preload was tried: it delayed the first paint on slow 3G). -->
+
+    <!-- Home's first photos (the region cards) start downloading with the app, not after it (home page only). -->
+    <script>
+      (function () {
+        try {
+          var p = location.pathname;
+          if (p !== '/' && p !== '/index.html') return;
+          var S = window.__KT_SHELL__; if (S && (S.screen === 'europe' || S.screen === 'kivrei')) return; // the store app's Europe screens show no region cards
+          ['/regions/usa.webp', '/regions/caribbean.webp'].forEach(function (u) {
+            var l = document.createElement('link');
+            l.rel = 'preload'; l.as = 'image'; l.href = u; l.setAttribute('fetchpriority', 'high');
+            document.head.appendChild(l);
+          });
+        } catch (e) {}
+      })();
+    </script>
+    <link rel="dns-prefetch" href="https://lh3.googleusercontent.com" />
+
+    <!-- Custom Web App Manifest & Icons -->
+    <link rel="icon" href="/favicon.ico" sizes="any" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/manifest.json" />
+    <script type="module" crossorigin src="/assets/index-C5Zo8Zcw.js"></script>
+    <link rel="modulepreload" crossorigin href="/assets/vendor-react-Cj741ulN.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-firebase-C73-I1po.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-motion-BlrO_qYf.js">
+    <link rel="stylesheet" crossorigin href="/assets/index-kFeZDjI2.css">
+  </head>
+  <body class="bg-white text-slate-800 antialiased">
+    <noscript>
+      <h1>Kosher Travel Guide &amp; Planner</h1>
+      <p>Your kosher travel guide and trip planner. Find kosher restaurants, shuls, Chabad houses, hotels and things to do across the United States and the Caribbean, read kosher travel news, and plan your trip day by day with the AI trip planner.</p>
+      <p>Please turn on JavaScript to use the app.</p>
+    </noscript>
+    <div id="root"></div>
+  </body>
+</html>
+
