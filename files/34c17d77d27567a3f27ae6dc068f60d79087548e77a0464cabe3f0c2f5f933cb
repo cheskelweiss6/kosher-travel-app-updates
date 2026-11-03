@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <!-- Store app only (iPhone / Android): marks the page before it draws so the app's own layout rules apply
+         (status bar and home-indicator space, see "Store app" in src/index.css). On the website this does nothing. -->
+    <script>try{var C=window.Capacitor;if(C&&C.isNativePlatform&&C.isNativePlatform()){document.documentElement.classList.add('native-app','native-'+C.getPlatform());}}catch(e){}</script>
+    <script>try{var S=window.__KT_SHELL__;if(S&&typeof S.screen==='string'){document.documentElement.classList.add('kt-shell','native-app',S.platform==='android'?'native-android':'native-ios',S.layout==='full'?'kt-shell-full':'kt-shell-bar');}}catch(e){}</script>
+    <!-- Android (the Android app, any Android browser): Material surfaces instead of the iPhone's Liquid Glass (src/index.css, html.kt-android) -->
+    <script>try{var A=document.documentElement,U=navigator.userAgent||'',K=window.__KT_SHELL__;if(/Android/i.test(U)||(K&&K.platform==='android')||A.classList.contains('native-android')){A.classList.add('kt-android');A.classList.remove('native-ios');}}catch(e){}</script>
+    <title>Kosher Travel Guide & Planner</title>
+    <meta name="description" content="Kosher travel guide and trip planner: kosher restaurants, shuls, hotels and things to do across the US and Caribbean, with an AI trip planner." />
+    <link rel="preconnect" href="https://firestore.googleapis.com" crossorigin />
+    <link rel="preconnect" href="https://firebasestorage.googleapis.com" crossorigin />
+    <!-- Oct 31 2026 photo speed: post photos are plain <img> loads (no CORS), which use their own connection -->
+    <link rel="preconnect" href="https://firebasestorage.googleapis.com" />
+    <link rel="canonical" href="https://www.yourkoshertravel.com/" />
+    <!-- Google Search Console verification tag goes here (google-site-verification) -->
+    <meta name='impact-site-verification' value='21d1357a-caf8-4574-a6f7-40878079ef51'>
+
+    <!-- Open Graph / Twitter -->
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Kosher Travel" />
+    <meta property="og:title" content="Kosher Travel Guide & Planner" />
+    <meta property="og:description" content="Kosher travel guide and trip planner: kosher restaurants, shuls, hotels and things to do across the US and Caribbean, with an AI trip planner." />
+    <meta property="og:url" content="https://www.yourkoshertravel.com/" />
+    <meta property="og:image" content="https://www.yourkoshertravel.com/icon-512.png" />
+    <meta property="og:image:width" content="512" />
+    <meta property="og:image:height" content="512" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="Kosher Travel Guide & Planner" />
+    <meta name="twitter:description" content="Kosher travel guide and trip planner: kosher restaurants, shuls, hotels and things to do across the US and Caribbean, with an AI trip planner." />
+    <meta name="twitter:image" content="https://www.yourkoshertravel.com/icon-512.png" />
+    
+    <!-- iOS Home Screen / PWA Support -->
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="Kosher Travel" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="theme-color" content="#ffffff" />
+    
+    <!-- Fonts are served from this site (src/fonts, see index.css): no extra connections; text shows at once in the
+         phone's own font and switches when they arrive (a preload was tried: it delayed the first paint on slow 3G). -->
+
+    <!-- Home's first photos (the region cards) start downloading with the app, not after it (home page only). -->
+    <script>
+      (function () {
+        try {
+          var p = location.pathname;
+          if (p !== '/' && p !== '/index.html') return;
+          var S = window.__KT_SHELL__; if (S && (S.screen === 'europe' || S.screen === 'kivrei')) return; // the store app's Europe screens show no region cards
+          ['/regions/usa.webp', '/regions/caribbean.webp'].forEach(function (u) {
+            var l = document.createElement('link');
+            l.rel = 'preload'; l.as = 'image'; l.href = u; l.setAttribute('fetchpriority', 'high');
+            document.head.appendChild(l);
+          });
+        } catch (e) {}
+      })();
+    </script>
+    <link rel="dns-prefetch" href="https://lh3.googleusercontent.com" />
+    <!-- SHARELINK-OPEN-1031 (Cheskel Oct 31: a shared post "doesn't open up clean"): a light Kosher Travel loading screen
+         from the very first paint until the app draws, instead of a blank white page. Only when scripts run (crawlers and
+         noscript see nothing of it), never in the store app (it has its own launch screen). On a shared post link
+         (?story= / ?map=) it stays until the post's own screen takes over (StoriesTab), so no other page flashes first. -->
+    <style>
+      .kts{position:fixed;inset:0;z-index:2147483000;background:#fff;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:18px;transition:opacity .18s ease}
+      .kts-name{font-family:ui-serif,Georgia,"Times New Roman",serif;font-weight:700;font-size:26px;letter-spacing:-.01em;color:#191e3b}
+      .kts-spin{width:26px;height:26px;border-radius:50%;border:3px solid rgba(25,30,59,.14);border-top-color:#191e3b;animation:kts-r .8s linear infinite}
+      @keyframes kts-r{to{transform:rotate(360deg)}}
+      @media (prefers-reduced-motion:reduce){.kts-spin{animation-duration:2s}}
+      html:not(.kt-splashing) #kt-splash,.native-app #kt-splash,.kt-shell #kt-splash{display:none}
+    </style>
+    <script>
+      (function () {
+        try {
+          var h = document.documentElement;
+          if (h.classList.contains('native-app') || h.classList.contains('kt-shell')) return;
+          h.classList.add('kt-splashing');
+          var q = new URLSearchParams(location.search);
+          var link = (location.pathname === '/' || location.pathname === '/index.html') && (q.has('story') || q.has('map')) && q.get('review') !== 'reports';
+          var done = false;
+          window.__ktSplashLink = link;
+          window.__ktSplashDone = function () {
+            if (done) return; done = true;
+            var el = document.getElementById('kt-splash');
+            if (!el) { h.classList.remove('kt-splashing'); return; }
+            el.style.opacity = '0';
+            setTimeout(function () { h.classList.remove('kt-splashing'); if (el.parentNode) el.parentNode.removeChild(el); }, 200);
+          };
+          // never stuck: the app normally takes it down long before this
+          setTimeout(window.__ktSplashDone, link ? 25000 : 15000);
+        } catch (e) {}
+      })();
+    </script>
+
+    <!-- Custom Web App Manifest & Icons -->
+    <link rel="icon" href="/favicon.ico" sizes="any" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/manifest.json" />
+    <script type="module" crossorigin src="/assets/index-G-4X1dHU.js"></script>
+    <link rel="modulepreload" crossorigin href="/assets/vendor-react-Cj741ulN.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-motion-nMSqLgwu.js">
+    <link rel="stylesheet" crossorigin href="/assets/index-CQx46A_5.css">
+  </head>
+  <body class="bg-white text-slate-800 antialiased">
+    <noscript>
+      <h1>Kosher Travel Guide &amp; Planner</h1>
+      <p>Your kosher travel guide and trip planner. Find kosher restaurants, shuls, Chabad houses, hotels and things to do across the United States and the Caribbean, read kosher travel news, and plan your trip day by day with the AI trip planner.</p>
+      <p>Please turn on JavaScript to use the app.</p>
+    </noscript>
+    <div id="kt-splash" class="kts" aria-hidden="true"><div class="kts-name">Kosher Travel</div><div class="kts-spin"></div></div>
+    <div id="root"></div>
+  </body>
+</html>
+

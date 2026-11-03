@@ -1,0 +1,3331 @@
+{
+ "note": "Kever photos (Oct 26 2026 audit). One entry per photo file: the Wikimedia Commons file, its license and author, and the kevarim (ids in src/keverPhotos.ts) it is shown for. Every photo was checked by eye; 'cemetery' photos are used only where no free photo of the tzadik's own ohel or matzeivah was found. Kevarim with no correct photo show the navy name tile. Checked by scripts/check-kever-photos.mjs.",
+ "photos": [
+  {
+   "photo": "/europe/haflah-frankfurt__cemetery-battonnstrasse-gs-0079-0116-r-p.webp",
+   "file": "File:Cemetery-Battonnstrasse-GS-0079-0116-R. Pinchas Halevi Horowitz (29.06.1805).jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Cemetery-Battonnstrasse-GS-0079-0116-R._Pinchas_Halevi_Horowitz_(29.06.1805).jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "Simsalabimbam",
+   "kevarim": [
+    "haflah-frankfurt"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/jacob-emden-altona__jacob-emden-jpg.webp",
+   "file": "File:Jacob Emden.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:Jacob_Emden.JPG",
+   "license": "CC BY-SA 3.0",
+   "author": "Holgerjan/Holger Jandt",
+   "kevarim": [
+    "jacob-emden-altona"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/jonathan-eybeschutz-altona__jonathan-eybeschutz-gravestone-jpg.webp",
+   "file": "File:Jonathan Eybeschutz gravestone.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Jonathan_Eybeschutz_gravestone.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "שמזן",
+   "kevarim": [
+    "jonathan-eybeschutz-altona"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/k_danon__moshe-danon.webp",
+   "file": "File:Moshe Danon.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:Moshe_Danon.JPG",
+   "license": "CC BY-SA 3.0",
+   "author": "Dr. Eliezer Papo Ben-Gurion University",
+   "kevarim": [
+    "moshe-danon-stolac"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/k_lido__le-vieux-cimeti-re-h-bra-que-lido-de-ven.webp",
+   "file": "File:Le vieux cimetière hébraïque (Lido de Venise) (8204372712).jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Le_vieux_cimeti%C3%A8re_h%C3%A9bra%C3%AFque_(Lido_de_Venise)_(8204372712).jpg",
+   "license": "CC BY 2.0",
+   "author": "Jean-Pierre Dalbéra from Paris, France",
+   "kevarim": [
+    "elia-levita-venice",
+    "leon-modena-venice"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/berdychiv-berditche-4b13.webp",
+   "file": "File:Berdychiv. Jewish cemetery -05.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Berdychiv._Jewish_cemetery_-05.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "A.Lapshin",
+   "kevarim": [
+    "avraham-yehoshua-heshel-of-berditchev-berdychiv",
+    "liber-hagadol-berditchev",
+    "moshe-mordechai-twersky-of-makarov-berdychiv",
+    "tzvi-aryeh-twersky-of-makarov-berdychiv",
+    "yisrael-pikov-berditchev"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/berlin-adass-jisroel-14b0.webp",
+   "file": "File:Adass-Jisroel-Friedhof in Berlin 04.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:Adass-Jisroel-Friedhof_in_Berlin_04.JPG",
+   "license": "CC BY-SA 3.0",
+   "author": "Bin im Garten",
+   "kevarim": [
+    "hildesheimer-berlin"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/bratislava-chatam-sofer-ed46.webp",
+   "file": "File:Mauzóleum Chatama Sófera 2.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Mauz%C3%B3leum_Chatama_S%C3%B3fera_2.jpg",
+   "license": "Public domain",
+   "author": "Ján Legény",
+   "kevarim": [
+    "mordechai-tosk-pressburg"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/bratslav-breslov-2420.webp",
+   "file": "File:Bratslav cemetery 2.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Bratslav_cemetery_2.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "V1snyk",
+   "kevarim": [
+    "aharon-rav-breslov"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/budapest-csorsz-00ac.webp",
+   "file": "File:Csörsz utcai izraelita temető3.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Cs%C3%B6rsz_utcai_izraelita_temet%C5%913.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "12akd",
+   "kevarim": [
+    "koppel-reich-budapest",
+    "yaakov-tzvi-mandel-budapest",
+    "yitzchak-reich-budapest"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/budapest-kozma-e9c5.webp",
+   "file": "File:Kozma Street Jewish cemetery 56514487.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Kozma_Street_Jewish_cemetery_56514487.jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "Nikodem Nijaki",
+   "kevarim": [
+    "simon-oppenheim-budapest"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/budapest-obuda-136b.webp",
+   "file": "File:181102 104540 Óbudai temető.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:181102_104540_%C3%93budai_temet%C5%91.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Solymári",
+   "kevarim": [
+    "maharim-mintz-budapest"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/fastiv-fastov-4f84.webp",
+   "file": "File:Cemetery Fastov.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Cemetery_Fastov.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Tetiana Malykh",
+   "kevarim": [
+    "meshulam-zalman-ashkenazi-fastov"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/frankfurt-rat-beil.webp",
+   "file": "File:Frankfurt, Jüdischer Friedhof Rat Beil Straße, Gräber.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Frankfurt,_J%C3%BCdischer_Friedhof_Rat_Beil_Stra%C3%9Fe,_Gr%C3%A4ber.jpg",
+   "license": "CC0",
+   "author": "Karsten Ratzke",
+   "kevarim": [
+    "samson-raphael-hirsch-frankfurt",
+    "yanuka-stolin-frankfurt"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/gora-kalwaria-ger-9368.webp",
+   "file": "File:Cmentarz zydowski w Gorze Kalwarii 03.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:Cmentarz_zydowski_w_Gorze_Kalwarii_03.JPG",
+   "license": "CC BY-SA 3.0",
+   "author": "Mzungu",
+   "kevarim": [
+    "yisrael-rothenberg-ger"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2--c1c1.webp",
+   "file": "File:קבר- ר' שלום שכנא.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:%D7%A7%D7%91%D7%A8-_%D7%A8%27_%D7%A9%D7%9C%D7%95%D7%9D_%D7%A9%D7%9B%D7%A0%D7%90.jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "Yifahe",
+   "kevarim": [
+    "shalom-shachna-lublin"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2--ceac.webp",
+   "file": "File:מצבה של רבי יצחק אייזיק מקאליב.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:%D7%9E%D7%A6%D7%91%D7%94_%D7%A9%D7%9C_%D7%A8%D7%91%D7%99_%D7%99%D7%A6%D7%97%D7%A7_%D7%90%D7%99%D7%99%D7%96%D7%99%D7%A7_%D7%9E%D7%A7%D7%90%D7%9C%D7%99%D7%91.jpg",
+   "license": "Public domain",
+   "author": "אני",
+   "kevarim": [
+    "reb-itzikel-kaliv"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2--eb64.webp",
+   "file": "File:קבר רבי יחזקאל לנדא.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:%D7%A7%D7%91%D7%A8_%D7%A8%D7%91%D7%99_%D7%99%D7%97%D7%96%D7%A7%D7%90%D7%9C_%D7%9C%D7%A0%D7%93%D7%90.JPG",
+   "license": "Public domain",
+   "author": "מנסה",
+   "kevarim": [
+    "noda-beyehuda-prague"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-1-2b50.webp",
+   "file": "File:פשיסחא (1).jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:%D7%A4%D7%A9%D7%99%D7%A1%D7%97%D7%90_(1).jpg",
+   "license": "CC BY-SA 2.5",
+   "author": "נעה (Transferred by Matanya/Originally uploaded by נעה)",
+   "kevarim": [
+    "reb-bunim-peshischa"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-17-a020.webp",
+   "file": "File:פולין - ווארשא - גאנשע 17.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:%D7%A4%D7%95%D7%9C%D7%99%D7%9F_-_%D7%95%D7%95%D7%90%D7%A8%D7%A9%D7%90_-_%D7%92%D7%90%D7%A0%D7%A9%D7%A2_17.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "מ-ב-צ",
+   "kevarim": [
+    "biala-aharon-tzvi-warsaw"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-99-731-0103-dsc-0209-384f.webp",
+   "file": "File:99-731-0103 DSC 0209.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:99-731-0103_DSC_0209.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Сарапулов",
+   "kevarim": [
+    "dov-ber-friedman-leova-sadigura"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-a-photo-of-the-gravesite-of-abarbanel-and-minz-t-6c6c.webp",
+   "file": "File:A photo of the gravesite of Abarbanel and Minz. Taken in 2014 by me.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:A_photo_of_the_gravesite_of_Abarbanel_and_Minz._Taken_in_2014_by_me.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Abarbaneledit",
+   "kevarim": [
+    "don-isaac-abarbanel"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-abandoned-jewish-cemetery-2-3960.webp",
+   "file": "File:Abandoned jewish cemetery 2.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Abandoned_jewish_cemetery_2.jpg",
+   "license": "CC BY-SA 2.0",
+   "author": "sz.u.",
+   "kevarim": [
+    "avraham-aharon-teitelbaum-kolbuszowa"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-abraham-ben-david-de-posquieres-04-ad2b.webp",
+   "file": "File:Abraham ben David de Posquieres 04.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Abraham_ben_David_de_Posquieres_04.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Street isaac",
+   "kevarim": [
+    "raavad-posquieres"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-admor-modrzyce-967f.webp",
+   "file": "File:Admor Modrzyce.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:Admor_Modrzyce.JPG",
+   "license": "CC BY-SA 4.0",
+   "author": "סול במול",
+   "kevarim": [
+    "modzitzer-divrei-yisrael-warsaw"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-az-olaszliszkai-zsido-temeto-bejarata-2c42.webp",
+   "file": "File:Az olaszliszkai zsidó temető bejárata.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Az_olaszliszkai_zsid%C3%B3_temet%C5%91_bej%C3%A1rata.jpg",
+   "license": "CC0",
+   "author": "Amator-helytortenesz",
+   "kevarim": [
+    "tal-chaim-liska",
+    "reb-hershele-liska"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-belz-jewish-cemetery-07f0.webp",
+   "file": "File:Belz Jewish cemetery.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Belz_Jewish_cemetery.jpg",
+   "license": "CC BY-SA 2.5",
+   "author": "Водник; uploaded to Commons by Janmad",
+   "kevarim": [
+    "zecharia-mendel-belz"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-brzesko-cm-zydowski-7139.webp",
+   "file": "File:Brzesko-cm zydowski.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Brzesko-cm_zydowski.jpg",
+   "license": "CC BY-SA 2.5",
+   "author": "The original uploader was Sadok at Polish Wikipedia.",
+   "kevarim": [
+    "aryeh-leibush-lipschitz-brzesko",
+    "meshulam-zalman-yonasan-lipschitz-brzesko",
+    "tuvia-lipschitz-brzesko"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-cmentarz-zydowski-w-strzyzowie-bc44.webp",
+   "file": "File:Cmentarz żydowski w Strzyżowie.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Cmentarz_%C5%BCydowski_w_Strzy%C5%BCowie.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Sintja",
+   "kevarim": [
+    "strizhover-rebbe"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-cmentarz-zydowski-zabno-c2b7.webp",
+   "file": "File:Cmentarz zydowski zabno.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Cmentarz_zydowski_zabno.jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "Kauczuk",
+   "kevarim": [
+    "shalom-dovid-unger-zabno",
+    "yaakov-yitzchak-unger-zabno",
+    "yisrael-elimelech-unger-zabno"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-dsc01566-4125.webp",
+   "file": "File:Єврейське кладовище ХІХ ст Ямпіль DSC01566.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:%D0%84%D0%B2%D1%80%D0%B5%D0%B9%D1%81%D1%8C%D0%BA%D0%B5_%D0%BA%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D0%B8%D1%89%D0%B5_%D0%A5%D0%86%D0%A5_%D1%81%D1%82_%D0%AF%D0%BC%D0%BF%D1%96%D0%BB%D1%8C_DSC01566.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Михайло Потупчик",
+   "kevarim": [
+    "maggid-zlotshov"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-eduard-duckesz-haus-25c4.webp",
+   "file": "File:Eduard-Duckesz-Haus.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Eduard-Duckesz-Haus.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Hinnerk11",
+   "kevarim": [
+    "aruch-laner-altona",
+    "knesses-yechezkel-altona",
+    "raphael-hakohen-of-hamburg-hamburg-altona"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-endingen-juedischer-friedhof-012-46ec.webp",
+   "file": "File:Endingen juedischer Friedhof 012.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:Endingen_juedischer_Friedhof_012.JPG",
+   "license": "CC BY-SA 4.0",
+   "author": "Lutz Fischer-Lamprecht",
+   "kevarim": [
+    "raphael-ris-endingen"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-grave-of-rabbi-shmaryahu-noah-schneersohn-01-c0a3.webp",
+   "file": "File:Grave of Rabbi Shmaryahu Noah Schneersohn 01.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:Grave_of_Rabbi_Shmaryahu_Noah_Schneersohn_01.JPG",
+   "license": "CC BY-SA 3.0",
+   "author": "Mtgelfand",
+   "kevarim": [
+    "rabbi-shmaryahu-noach-bobruisk"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-grave-of-solomon-luria-lublin-poland-jan-2014-c373.webp",
+   "file": "File:Grave of Solomon Luria, Lublin, Poland Jan 2014.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Grave_of_Solomon_Luria,_Lublin,_Poland_Jan_2014.jpg",
+   "license": "CC BY 3.0",
+   "author": "Comik",
+   "kevarim": [
+    "maharshal-lublin"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-gravestone-of-avigdor-kara-jewish-cemetery-pragu-5913.webp",
+   "file": "File:Gravestone of Avigdor Kara-Jewish cemetery Prague-Josefov.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Gravestone_of_Avigdor_Kara-Jewish_cemetery_Prague-Josefov.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Yair Haklai",
+   "kevarim": [
+    "avigdor-kara-prague"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-gravestone-of-shlomo-ephraim-ben-aaron-luntschit-a424.webp",
+   "file": "File:Gravestone of Shlomo Ephraim ben Aaron Luntschitz-Jewish cemetery Prague-Josefov.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Gravestone_of_Shlomo_Ephraim_ben_Aaron_Luntschitz-Jewish_cemetery_Prague-Josefov.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Yair Haklai",
+   "kevarim": [
+    "kli-yakar-prague"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-gravestone-of-the-bach-yoel-sirkis-f03d.webp",
+   "file": "File:Gravestone of the Bach (Yoel Sirkis).jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Gravestone_of_the_Bach_(Yoel_Sirkis).jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "JPadowitz",
+   "kevarim": [
+    "bach-krakow"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-grob-abrahama-perlmuttera-grave-of-abraham-perlm-d3cb.webp",
+   "file": "File:Grob Abrahama Perlmuttera-Grave of Abraham Perlmutter.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:Grob_Abrahama_Perlmuttera-Grave_of_Abraham_Perlmutter.JPG",
+   "license": "CC BY 3.0",
+   "author": "Mzungu",
+   "kevarim": [
+    "perlmutter-warsaw"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-grob-chaima-dawidsohna-grave-of-chaim-dawidsohn-0071.webp",
+   "file": "File:Grob Chaima Dawidsohna-Grave of Chaim Dawidsohn.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:Grob_Chaima_Dawidsohna-Grave_of_Chaim_Dawidsohn.JPG",
+   "license": "CC BY 3.0",
+   "author": "Mzungu",
+   "kevarim": [
+    "chaim-davidsohn-warsaw"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-grob-dow-bera-meizelsa-grave-of-dov-ber-meisels-3d5a.webp",
+   "file": "File:Grob Dow Bera Meizelsa-Grave of Dov Ber Meisels.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:Grob_Dow_Bera_Meizelsa-Grave_of_Dov_Ber_Meisels.JPG",
+   "license": "CC BY 3.0",
+   "author": "Mzungu",
+   "kevarim": [
+    "dov-berish-meisels-warsaw"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-grob-jom-tow-hellera-grave-of-jom-tow-heller-38bf.webp",
+   "file": "File:Grob Jom Tow Hellera-Grave of Jom Tow Heller.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:Grob_Jom_Tow_Hellera-Grave_of_Jom_Tow_Heller.JPG",
+   "license": "CC BY 3.0",
+   "author": "Mzungu",
+   "kevarim": [
+    "tosafos-yom-tov"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-haim-pinto-essaouira-f0f4.webp",
+   "file": "File:Haim Pinto Essaouira.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Haim_Pinto_Essaouira.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Yamen",
+   "kevarim": [
+    "reb-chaim-pinto-morocco"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-hannopil-jewish-cemetery-ohel-66da.webp",
+   "file": "File:Hannopil, Jewish cemetery, Ohel.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Hannopil,_Jewish_cemetery,_Ohel.jpg",
+   "license": "CC BY 4.0",
+   "author": "UmanExpress",
+   "kevarim": [
+    "yehuda-leib-hakohen-hannopil"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-hnativka-anatevka-chernobyl-maggid-tzion-01-1fb0.webp",
+   "file": "File:Hnativka (Anatevka), Chernobyl Maggid tzion -01.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Hnativka_(Anatevka),_Chernobyl_Maggid_tzion_-01.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "JewishNews",
+   "kevarim": [
+    "rabbi-mordechai-chernobyl"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-holesov-5-acd9.webp",
+   "file": "File:Holešov (5).jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Hole%C5%A1ov_(5).jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Vlach Pavel",
+   "kevarim": [
+    "shach-holesov"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-jewish-cemetery-2018-paks-818b.webp",
+   "file": "File:Jewish Cemetery, 2018 Paks.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Jewish_Cemetery,_2018_Paks.jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "Globetrotter19",
+   "kevarim": [
+    "yoel-unger-of-paks-paks"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-jewish-cemetery-bardejov-3-de99.webp",
+   "file": "File:Jewish cemetery (Bardejov) 3.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Jewish_cemetery_(Bardejov)_3.jpg",
+   "license": "CC BY 4.0",
+   "author": "Wanfried-Dublin",
+   "kevarim": [
+    "chaim-avraham-orenstein-bardejov"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-jewish-cemetery-in-kuty02-2e21.webp",
+   "file": "File:Jewish cemetery in Kuty02.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Jewish_cemetery_in_Kuty02.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "RenataHanynets",
+   "kevarim": [
+    "moshe-kitov-kuty"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-jewish-cemetery-in-michalovce-main-cemetery-gate-f60d.webp",
+   "file": "File:Jewish cemetery in Michalovce - Main cemetery gate, during the final phase of constructing a new gate and wall around the cemetery in the early 2010s (March 2013) 01.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Jewish_cemetery_in_Michalovce_-_Main_cemetery_gate,_during_the_final_phase_of_constructing_a_new_gate_and_wall_around_the_cemetery_in_the_early_2010s_(March_2013)_01.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "ZemplinTemplar",
+   "kevarim": [
+    "aharon-greenberger-michalovce",
+    "simcha-greenberger-michalovce"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-jewish-cemetery-in-zabolotiv02-f380.webp",
+   "file": "File:Jewish cemetery in Zabolotiv02.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Jewish_cemetery_in_Zabolotiv02.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "RenataHanynets",
+   "kevarim": [
+    "david-hager-zablotov",
+    "yaakov-hager-zabolotiv"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-jewish-cemetery-oswiecim-grave-ebfa.webp",
+   "file": "File:Jewish cemetery Oświęcim grave.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Jewish_cemetery_O%C5%9Bwi%C4%99cim_grave.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Jacek7770",
+   "kevarim": [
+    "darchei-yosher-oswiecim"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-jewish-cemetery-sokolow-malopolski-imgp4606-d754.webp",
+   "file": "File:Jewish cemetery Sokolow Malopolski IMGP4606.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Jewish_cemetery_Sokolow_Malopolski_IMGP4606.jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "Nikodem Nijaki",
+   "kevarim": [
+    "eliezer-of-reisha-sokolow-malopolski"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-jewish-cemetery-zelechow-imgp3257-eaa0.webp",
+   "file": "File:Jewish cemetery Zelechow IMGP3257.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Jewish_cemetery_Zelechow_IMGP3257.jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "Nikodem Nijaki",
+   "kevarim": [
+    "aharon-hakohen-zelechow",
+    "aharon-yechiel-hopstein-zelechow"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-jewishgraveyardthehague2-a298.webp",
+   "file": "File:JewishGraveyardTheHague2.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:JewishGraveyardTheHague2.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Vysotsky",
+   "kevarim": [
+    "shaul-halevi-the-hague"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-judischer-friedhof-worms-4243-9ebe.webp",
+   "file": "File:Jüdischer Friedhof Worms-4243.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:J%C3%BCdischer_Friedhof_Worms-4243.jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "Dietrich Krieger",
+   "kevarim": [
+    "maharil-worms"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-judischer-friedhof-worms-4270-cb29.webp",
+   "file": "File:Jüdischer Friedhof Worms-4270.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:J%C3%BCdischer_Friedhof_Worms-4270.jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "Dietrich Krieger",
+   "kevarim": [
+    "alexander-ben-shlomo-wimpfen-worms"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-kalonimus-kalman-epstein-grave-2-e4c8.webp",
+   "file": "File:Kalonimus Kalman Epstein grave (2).jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Kalonimus_Kalman_Epstein_grave_(2).jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "Sławomir Pastuszka",
+   "kevarim": [
+    "maor-vashemesh-krakow"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-karlsruhe-judfriedhof-kriegsstr-a4fe.webp",
+   "file": "File:Karlsruhe JüdFriedhof Kriegsstr.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Karlsruhe_J%C3%BCdFriedhof_Kriegsstr.jpg",
+   "license": "CC BY 3.0 de",
+   "author": "Ikar.us (talk)",
+   "kevarim": [
+    "korban-nesanel-karlsruhe"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-krakow-nowy-cmentarz-zydowski-3-847e.webp",
+   "file": "File:Kraków - Nowy cmentarz żydowski (3).jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Krak%C3%B3w_-_Nowy_cmentarz_%C5%BCydowski_(3).jpg",
+   "license": "CC BY 2.0",
+   "author": "Fred Romero from Paris, France",
+   "kevarim": [
+    "mordechai-saba-krakow"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-kremenets-mountains-jewish-cemetery-27-08-2007-0-7629.webp",
+   "file": "File:Kremenets Mountains, Jewish cemetery, 27.08.2007 05.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Kremenets_Mountains,_Jewish_cemetery,_27.08.2007_05.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Ivens12",
+   "kevarim": [
+    "mordechai-of-kremenets-kremenets"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-l-i-berdichev-4d83.webp",
+   "file": "File:L.I berdichev.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:L.I_berdichev.jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "Ishpashout",
+   "kevarim": [
+    "levi-yitzchak-berdichev"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-lelow-grob-cadyka-02-9790.webp",
+   "file": "File:Lelów - grób cadyka 02.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Lel%C3%B3w_-_gr%C3%B3b_cadyka_02.jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "Paweł 'pbm' Szubert (talk)",
+   "kevarim": [
+    "reb-dovid-lelov"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-lwow-lviv-old-jewish-cemetery-25-b054.webp",
+   "file": "File:Lwow (Lviv), Old Jewish cemetery -25.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Lwow_(Lviv),_Old_Jewish_cemetery_-25.jpg",
+   "license": "Public domain",
+   "author": "Unknown authorUnknown author",
+   "kevarim": [
+    "eisan-haezrachi-lviv"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-maharam-gravestone-8bc6.webp",
+   "file": "File:Maharam Gravestone.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Maharam_Gravestone.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Davidpdv",
+   "kevarim": [
+    "maharam-padua"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-mattersburg-judischer-friedhof-02-3faf.webp",
+   "file": "File:Mattersburg - Jüdischer Friedhof (02).jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Mattersburg_-_J%C3%BCdischer_Friedhof_(02).jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "Steindy (talk) 13:46, 15 March 2012 (UTC)",
+   "kevarim": [
+    "chasan-sofer-mattersdorf"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-mausoleum-of-moses-sofer-c341.webp",
+   "file": "File:Mausoleum of Moses Sofer.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Mausoleum_of_Moses_Sofer.jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "(Smerus at en.wikipedia at 08:56, on 30 June 2006. File name: File:Sofermausoleum.jpg)",
+   "kevarim": [
+    "ksav-sofer",
+    "shevet-sofer-bratislava"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-mikulov-cemetery-rabbi-benet-s-tombstone-e672.webp",
+   "file": "File:Mikulov cemetery Rabbi Benet's tombstone.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Mikulov_cemetery_Rabbi_Benet%27s_tombstone.jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "feťour",
+   "kevarim": [
+    "mordechai-benet-nikolsburg"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-mogielnica-kirkut-2020-94dd.webp",
+   "file": "File:Mogielnica kirkut 2020.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Mogielnica_kirkut_2020.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Popik",
+   "kevarim": [
+    "saraf-mogielnica"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-mordechaj-jozef-leiner-cadyk-z-izbicy-fc5a.webp",
+   "file": "File:Mordechaj Józef Leiner -cadyk z Izbicy.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Mordechaj_J%C3%B3zef_Leiner_-cadyk_z_Izbicy.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Epegeiro",
+   "kevarim": [
+    "mei-hashiloach-izbica"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-mount-lebanon-cemetery-iselin-new-jersey-016-72d1.webp",
+   "file": "File:Mount Lebanon Cemetery (Iselin, New Jersey) - 016.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Mount_Lebanon_Cemetery_(Iselin,_New_Jersey)_-_016.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other pho",
+   "kevarim": [
+    "novominsker-rebbe-iselin"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-mukachevo-new-jewish-cemetery-01-65e8.webp",
+   "file": "File:Mukachevo, New Jewish cemetery (01).jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Mukachevo,_New_Jewish_cemetery_(01).jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "В.Горишняк",
+   "kevarim": [
+    "shem-shlomo-munkatch"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-mukachevo-new-jewish-cemetery-03-2e09.webp",
+   "file": "File:Mukachevo, New Jewish cemetery (03).jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Mukachevo,_New_Jewish_cemetery_(03).jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "В.Горишняк",
+   "kevarim": [
+    "minchas-elazar-munkatch",
+    "menashe-eichenstein-of-zidichov-mukachevo",
+    "darkei-teshuva-munkatch"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-na-cmentarzu-zydowskim-badc.webp",
+   "file": "File:Na cmentarzu żydowskim.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:Na_cmentarzu_%C5%BCydowskim.JPG",
+   "license": "CC BY-SA 4.0",
+   "author": "Christophoros43",
+   "kevarim": [
+    "aharon-halberstam-biala-bielitz-tarnow",
+    "chaim-eliezer-unger-tarnow",
+    "imrei-yosher-tarnow",
+    "sova-semachos-tarnow",
+    "shmelke-hoicher-tarnow",
+    "yitzchak-isaac-lefkowitz-tarnow",
+    "radoshitz-sons-tarnow"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-nowy-wisnicz-cmentarz-zydowski-w-nowym-wisniczu--913c.webp",
+   "file": "File:Nowy Wiśnicz, Cmentarz żydowski w Nowym Wiśniczu I.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Nowy_Wi%C5%9Bnicz,_Cmentarz_%C5%BCydowski_w_Nowym_Wi%C5%9Bniczu_I.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Jacek Daczyński",
+   "kevarim": [
+    "eleazar-rubin-nowy-wisnicz",
+    "naftali-rubin-nowy-wisnicz"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-ohel-2-6b72.webp",
+   "file": "File:Ohel (2).jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Ohel_(2).jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "Ktw",
+   "kevarim": [
+    "yaakov-eliyahu-kohen-tomaszow",
+    "yitzchak-meir-singer-tomaszow"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-ohel-cimitirul-evreiesc-din-buhusi-990a.webp",
+   "file": "File:Ohel Cimitirul Evreiesc din Buhusi.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Ohel_Cimitirul_Evreiesc_din_Buhusi.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Kataadj",
+   "kevarim": [
+    "yitzchak-friedman-of-bohush-buhusi"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-ohel-of-chaim-chaykl-of-amdur-e47d.webp",
+   "file": "File:Ohel of Chaim Chaykl of Amdur.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Ohel_of_Chaim_Chaykl_of_Amdur.png",
+   "license": "CC BY-SA 4.0",
+   "author": "Ibn Daud",
+   "kevarim": [
+    "chaim-chaikl-of-amdur-indura"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-ohel-szydlowiec-d367.webp",
+   "file": "File:Ohel szydlowiec.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:Ohel_szydlowiec.JPG",
+   "license": "CC BY 3.0",
+   "author": "Ciocia Lusia",
+   "kevarim": [
+    "tzemach-baruch-of-shidlovtza-szydowiec"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-ohele-cadykow-z-pelcowizny-baranowicz-i-slonimia-84bf.webp",
+   "file": "File:Ohele cadykow z Pelcowizny Baranowicz i Slonimia-Ohels of Pelcowizna Baranowicze and Slonim tzadiks.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:Ohele_cadykow_z_Pelcowizny_Baranowicz_i_Slonimia-Ohels_of_Pelcowizna_Baranowicze_and_Slonim_tzadiks.JPG",
+   "license": "CC BY 3.0",
+   "author": "Mzungu",
+   "kevarim": [
+    "slonimer-shmuel-warsaw"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-old-jewish-cemetery-in-grodzisk-wielkopolski-2-ce23.webp",
+   "file": "File:Old jewish cemetery in Grodzisk Wielkopolski (2).jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Old_jewish_cemetery_in_Grodzisk_Wielkopolski_(2).jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "MOs810",
+   "kevarim": [
+    "eliyahu-guttmacher-grodzisk-wielkopolski"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-p1410026-pinczow-kirkut-cmentarz-zydowski-7513.webp",
+   "file": "File:P1410026 Pińczów Kirkut cmentarz żydowski.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:P1410026_Pi%C5%84cz%C3%B3w_Kirkut_cmentarz_%C5%BCydowski.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "24april1975",
+   "kevarim": [
+    "avraham-mordechai-pinczow"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-p1530937-2026.webp",
+   "file": "File:Шаргород P1530937 Огель Нафталі Герца бен Аарона га-Коена та Авраама бен Меера.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:%D0%A8%D0%B0%D1%80%D0%B3%D0%BE%D1%80%D0%BE%D0%B4_P1530937_%D0%9E%D0%B3%D0%B5%D0%BB%D1%8C_%D0%9D%D0%B0%D1%84%D1%82%D0%B0%D0%BB%D1%96_%D0%93%D0%B5%D1%80%D1%86%D0%B0_%D0%B1%D0%B5%D0%BD_%D0%90%D0%B0%D1%80%D0%BE%D0%BD%D0%B0_%D0%B3%D0%B0-%D0%9A%D0%BE%D0%B5%D0%BD%D0%B0_%D1%82%D0%B0_%D0%90%D0%B2%D1%80%D0%B0%D0%B0%D0%BC%D0%B0_%D0%B1%D0%B5%D0%BD_%D0%9C%D0%B5%D0%B5%D1%80%D0%B0.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Posterrr",
+   "kevarim": [
+    "rabbi-naftali-hertz-sharigrad"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-pere-lachaise-josef-david-sinzheim-3308.webp",
+   "file": "File:Pere Lachaise-Josef-David Sinzheim.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Pere_Lachaise-Josef-David_Sinzheim.jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "Harald Lordick",
+   "kevarim": [
+    "sinzheim-paris"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-pl-frysztak-judaica-stary-kirkut-grob-estery-c-e-ddda.webp",
+   "file": "File:PL Frysztak, judaica, stary kirkut, grob Estery c. Elimelecha, 2013.07.20, fot Nowicka (1).jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:PL_Frysztak,_judaica,_stary_kirkut,_grob_Estery_c._Elimelecha,_2013.07.20,_fot_Nowicka_(1).jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Ivonna Nowicka",
+   "kevarim": [
+    "esther-etel-bas-reb-elimelech-frysztak"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-podgorze-new-jewish-cemetery-memorial-matzevah-t-efec.webp",
+   "file": "File:Podgorze new Jewish cemetery,memorial matzevah (tombstone), 3 Abrahama street,Krakow,Poland.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:Podgorze_new_Jewish_cemetery,memorial_matzevah_(tombstone),_3_Abrahama_street,Krakow,Poland.JPG",
+   "license": "CC BY-SA 4.0",
+   "author": "Zygmunt Put",
+   "kevarim": [
+    "sarah-schenirer-krakow"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-pol-warsaw-jcp-grob-rabina-87bb.webp",
+   "file": "File:POL Warsaw JCP grob rabina.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:POL_Warsaw_JCP_grob_rabina.jpg",
+   "license": "CC BY-SA 2.5",
+   "author": "Hubert Śmietanka",
+   "kevarim": [
+    "divrei-binah-biala"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-praha-old-jewish-cemetery-panorama-01-fc4f.webp",
+   "file": "File:Praha Old Jewish Cemetery Panorama 01.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Praha_Old_Jewish_Cemetery_Panorama_01.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Uoaei1",
+   "kevarim": [
+    "dovid-oppenheim-prague"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-radziner-ohel-920a.webp",
+   "file": "File:Radziner ohel.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Radziner_ohel.jpg",
+   "license": "Public domain",
+   "author": "Troen at English Wikipedia",
+   "kevarim": [
+    "radziner-mordechai-yosef-elazar-warsaw"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-ramsgate-montefiore-mausoleum-geograph-org-uk-28-552b.webp",
+   "file": "File:Ramsgate Montefiore Mausoleum-geograph.org.uk-2847126.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Ramsgate_Montefiore_Mausoleum-geograph.org.uk-2847126.jpg",
+   "license": "CC BY-SA 2.0",
+   "author": "pam fray",
+   "kevarim": [
+    "sir-moses-montefiore-ramsgate"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-reb-chaim-mvolozhin-f3b0.webp",
+   "file": "File:Reb chaim mvolozhin.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:Reb_chaim_mvolozhin.JPG",
+   "license": "CC BY-SA 3.0",
+   "author": "חיים 7",
+   "kevarim": [
+    "reb-chaim-volozhiner"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-reb-chaim-ozer-0a1c.webp",
+   "file": "File:Reb chaim ozer.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:Reb_chaim_ozer.JPG",
+   "license": "CC BY-SA 3.0",
+   "author": "חיים 7",
+   "kevarim": [
+    "chaim-ozer-vilna"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-remuh-cemetery-in-krakow-01-c4d4.webp",
+   "file": "File:Remuh cemetery in Kraków 01.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Remuh_cemetery_in_Krak%C3%B3w_01.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Kritzolina",
+   "kevarim": [
+    "megaleh-amukos-krakow"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-samuel-halevi-kolin-machzit-hashekel-7abd.webp",
+   "file": "File:Samuel Halevi Kolin Machzit Hashekel.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Samuel_Halevi_Kolin_Machzit_Hashekel.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Talmidavi",
+   "kevarim": [
+    "machatzis-hashekel-boskovice"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-samuel-landau-s-gravestone-43db.webp",
+   "file": "File:Samuel Landau's gravestone.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Samuel_Landau%27s_gravestone.jpg",
+   "license": "CC BY 4.0",
+   "author": "בן עדריאל",
+   "kevarim": [
+    "shmuel-landau-prague"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-shepetivka-rabbi-tomb-122c.webp",
+   "file": "File:Shepetivka rabbi tomb.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Shepetivka_rabbi_tomb.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "V1snyk",
+   "kevarim": [
+    "rabbi-pinchas-koritz"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-shimshon-werthaimer-7b55.webp",
+   "file": "File:Shimshon werthaimer.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:Shimshon_werthaimer.JPG",
+   "license": "CC BY-SA 4.0",
+   "author": "מ-ב-צ",
+   "kevarim": [
+    "shimshon-wertheimer-vienna"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-sochaczew-ohel-cadykow-bornsteinow-na-cmentarzu--6a99.webp",
+   "file": "File:Sochaczew - ohel cadyków Bornsteinów na cmentarzu żydowskim.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Sochaczew_-_ohel_cadyk%C3%B3w_Bornstein%C3%B3w_na_cmentarzu_%C5%BCydowskim.jpg",
+   "license": "Public domain",
+   "author": "Soheaux",
+   "kevarim": [
+    "avnei-nezer",
+    "shem-mishmuel"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-sonim-bierasciejskaja-1901-39-af61.webp",
+   "file": "File:Słonim, Bieraściejskaja. Слонім, Берасьцейская (1901-39).jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:S%C5%82onim,_Biera%C5%9Bciejskaja._%D0%A1%D0%BB%D0%BE%D0%BD%D1%96%D0%BC,_%D0%91%D0%B5%D1%80%D0%B0%D1%81%D1%8C%D1%86%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_(1901-39).jpg",
+   "license": "Public domain",
+   "author": "Unknown authorUnknown author",
+   "kevarim": [
+    "beis-avraham-slonim",
+    "yesod-haavodah-slonim",
+    "eizel-charif-slonim"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-stary-cmentarz-zydowski-we-lwowie-03-dda3.webp",
+   "file": "File:Stary cmentarz żydowski we Lwowie -03.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Stary_cmentarz_%C5%BCydowski_we_Lwowie_-03.jpg",
+   "license": "Public domain",
+   "author": "Schleyen Włodzimierz",
+   "kevarim": [
+    "chacham-tzvi-lviv"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-stary-cmentarz-zydowski-we-lwowie-12fragment-4577.webp",
+   "file": "File:Stary cmentarz żydowski we Lwowie -12fragment.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Stary_cmentarz_%C5%BCydowski_we_Lwowie_-12fragment.jpg",
+   "license": "Public domain",
+   "author": "Unknown authorUnknown author",
+   "kevarim": [
+    "sma-lviv"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-tablicacmentarz2-39d8.webp",
+   "file": "File:Tablicacmentarz2.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Tablicacmentarz2.jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "Kwiczou",
+   "kevarim": [
+    "meir-rubin-glogov",
+    "yaakov-yosef-rubin-glogov",
+    "av-beit-din-glogow"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-teie1-ac94.webp",
+   "file": "File:Teie1.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Teie1.jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "sf2000",
+   "kevarim": [
+    "atzei-chaim-sighet"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-teie2-574a.webp",
+   "file": "File:Teie2.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Teie2.jpg",
+   "license": "CC BY 3.0",
+   "author": "me",
+   "kevarim": [
+    "kedushas-yom-tov-sighet"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-the-ohel-of-rabbi-shneur-zalman-of-liadi-5974.webp",
+   "file": "File:The Ohel of Rabbi Shneur Zalman of Liadi.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Ohel_of_Rabbi_Shneur_Zalman_of_Liadi.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Mk17b",
+   "kevarim": [
+    "alter-rebbe-haditch"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-vialetto-ingresso-53c8.webp",
+   "file": "File:Vialetto ingresso.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:Vialetto_ingresso.JPG",
+   "license": "CC BY-SA 4.0",
+   "author": "Elena delmonte RE01",
+   "kevarim": [
+    "zera-shimshon"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-vilnaergaon-339a.webp",
+   "file": "File:VilnaerGaon.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:VilnaerGaon.JPG",
+   "license": "CC BY-SA 3.0",
+   "author": "חיים 7",
+   "kevarim": [
+    "ger-tzedek-vilna",
+    "vilna-gaon"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-welwood-cemetery-in-pinelawn-ny-6-9-23-52b9.webp",
+   "file": "File:Welwood cemetery in Pinelawn NY 6 9 23.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Welwood_cemetery_in_Pinelawn_NY_6_9_23.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "GK tramrunner RU",
+   "kevarim": [
+    "tzelemer-rav-west-babylon"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-wien-zentralfriedhof-alter-judischer-friedhof-20-b157.webp",
+   "file": "File:Wien, Zentralfriedhof, Alter Jüdischer Friedhof -- 2018 -- 3214.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Wien,_Zentralfriedhof,_Alter_J%C3%BCdischer_Friedhof_--_2018_--_3214.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Dietmar Rabich",
+   "kevarim": [
+    "meir-almasherer-vienna",
+    "meir-uzdzhan-vienna",
+    "skolier-rebbe-vienna"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-yitzchak-elchanan-spektor-b1f7.webp",
+   "file": "File:Yitzchak elchanan spektor.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:Yitzchak_elchanan_spektor.JPG",
+   "license": "CC BY-SA 3.0",
+   "author": "חיים 7",
+   "kevarim": [
+    "rabbi-yitzchak-elchanan-kovno"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/k2-zamosc-kirkut-fotopolska-eu-289651-d682.webp",
+   "file": "File:Zamość, Kirkut - fotopolska.eu (289651).jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Zamo%C5%9B%C4%87,_Kirkut_-_fotopolska.eu_(289651).jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "kuba13",
+   "kevarim": [
+    "yaakov-ben-wolf-kranz-zamosc"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/kolbuszowa-kolbusho-7c27.webp",
+   "file": "File:Kolbuszowa (cmentarz żydowski).jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Kolbuszowa_(cmentarz_%C5%BCydowski).jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Patryk Duszkiewicz",
+   "kevarim": [
+    "yechiel-ropshitz-kolbushov"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/kozienice-kozhnitz-c20d.webp",
+   "file": "File:Kozienice.Kirkut.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:Kozienice.Kirkut.JPG",
+   "license": "CC BY-SA 3.0 pl",
+   "author": "Rafał Terkner",
+   "kevarim": [
+    "elazar-kozhnitz",
+    "be-er-moshe-kozhnitz",
+    "yerachmiel-moshe-kozhnitz"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/krakow-ce0e.webp",
+   "file": "File:20260325 162529 New Jewish Cemetery in Kraków 03.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:20260325_162529_New_Jewish_Cemetery_in_Krak%C3%B3w_03.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Dwxn",
+   "kevarim": [
+    "michtav-sofer-krakow"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/krakow-remuh-e629.webp",
+   "file": "File:2 Kraków, cmentarz żydowski.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:2_Krak%C3%B3w,_cmentarz_%C5%BCydowski.JPG",
+   "license": "CC BY-SA 3.0",
+   "author": "Madzik stu",
+   "kevarim": [
+    "rebbe-heshel-krakow",
+    "maginei-shlomo-krakow",
+    "sheeiris-yosef-krakow"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/lezajsk-lizhensk-94a8.webp",
+   "file": "File:2018 Powiat leżajski, Leżajsk, Cmentarz żydowski 02.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:2018_Powiat_le%C5%BCajski,_Le%C5%BCajsk,_Cmentarz_%C5%BCydowski_02.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Marcin Konsek",
+   "kevarim": [
+    "elazar-lizhensk",
+    "orach-tzaddik-chmielnik",
+    "naftali-lizhensk"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/lodz-cd6e.webp",
+   "file": "File:Brama Cmentarza Żydowskiego w Łodzi.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Brama_Cmentarza_%C5%BBydowskiego_w_%C5%81odzi.jpg",
+   "license": "CC BY-SA 2.5",
+   "author": "No machine-readable author provided. HuBar assumed (based on copyright claims).",
+   "kevarim": [
+    "eliyahu-chaim-meisel-lodz"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/london-brady-street.webp",
+   "file": "File:Brady Street Cemetery - 002.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Brady_Street_Cemetery_-_002.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "This picture has been taken by Oleg Yunakov. Contact e-ma",
+   "kevarim": [
+    "chief-rabbi-solomon-hirschell-london"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/london-edmonton-9c21.webp",
+   "file": "File:Edmonton Federation Cemetery.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Edmonton_Federation_Cemetery.jpg",
+   "license": "Public domain",
+   "author": "Northmetpit (talk)",
+   "kevarim": [
+    "telzer-rav-eliezer-gordon-london",
+    "nachman-shlomo-greenspan-london",
+    "reuven-dov-dessler-london",
+    "sassover-rebbe-simcha-rubin-london"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/london-hoop-lane.webp",
+   "file": "File:Hoop Lane Jewish Cemetery - 0445.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Hoop_Lane_Jewish_Cemetery_-_0445.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "This picture has been taken by Oleg Yunakov. Contact e-ma",
+   "kevarim": [
+    "moses-gaster-london"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/london-willesden.webp",
+   "file": "File:Willesden Jewish Cemetery - 00849.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Willesden_Jewish_Cemetery_-_00849.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "This picture has been taken by Oleg Yunakov. Contact e-ma",
+   "kevarim": [
+    "joseph-hertz-london",
+    "chief-rabbi-nathan-adler-london"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/lublin-2e0e.webp",
+   "file": "File:2013 Old jewish cemetery in Lublin - 01.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:2013_Old_jewish_cemetery_in_Lublin_-_01.jpg",
+   "license": "CC BY-SA 3.0 pl",
+   "author": "Jolanta Dyr",
+   "kevarim": [
+    "rosh-habarzel-lublin",
+    "yaakov-pollak-lublin",
+    "yehuda-leib-chanales-lublin"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/lublin-new-cemetery.webp",
+   "file": "File:Lublin, Walecznych; Nowy cmentarz żydowski w Lublinie 01.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Lublin,_Walecznych;_Nowy_cmentarz_%C5%BCydowski_w_Lublinie_01.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "BogTar200917",
+   "kevarim": [
+    "vegetable-seller-lublin",
+    "tzadok-hakohen-lublin",
+    "leibele-eiger-lublin",
+    "shevet-miyehuda-lublin"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/mszczonow-amshinov-dd1a.webp",
+   "file": "File:Ohel cadykow mszczonowskich-Ohel of Mszczonow tzadiks-01.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:Ohel_cadykow_mszczonowskich-Ohel_of_Mszczonow_tzadiks-01.JPG",
+   "license": "CC BY 3.0",
+   "author": "Mzungu",
+   "kevarim": [
+    "amshinover-rebbe"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/nowy-sacz-sanz-0828.webp",
+   "file": "File:Cmentarz żydowski koniec XIX Nowy Sącz ulica Rybacka New Jewish cemetery in Nowy Sacz 1.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Cmentarz_%C5%BCydowski_koniec_XIX_Nowy_S%C4%85cz_ulica_Rybacka_New_Jewish_cemetery_in_Nowy_Sacz_1.jpg",
+   "license": "CC BY 3.0",
+   "author": "Wojciech Domagała",
+   "kevarim": [
+    "aharon-halberstam-of-sanz-nowy-sacz",
+    "aryeh-leibush-halberstam-of-sieniawa-nowy-sacz",
+    "meir-natan-halberstam-nowy-sacz",
+    "moshe-halberstam-of-sieniawa-nowy-sacz",
+    "sholom-halberstam-of-pieklo-nowy-sacz",
+    "yitzchak-tuvia-halberstam-nowy-sacz",
+    "sanz-gribov-aryeh-leibush"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/ozarow-ozharov-7547.webp",
+   "file": "File:Cmentarz żydowski w Ożarowie.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Cmentarz_%C5%BCydowski_w_O%C5%BCarowie.jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "Beegees",
+   "kevarim": [
+    "ozharov-epstein"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/prague-old-jewish-cemetery-a3dc.webp",
+   "file": "File:Alter jüdischer Friedhof in Prag - panoramio.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Alter_j%C3%BCdischer_Friedhof_in_Prag_-_panoramio.jpg",
+   "license": "CC BY 3.0",
+   "author": "Wolfgang Barth",
+   "kevarim": [
+    "avraham-kara-prague",
+    "maharam-schiff-prague",
+    "david-gans-prague"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/prague-zizkov-f80b.webp",
+   "file": "File:Židovský hřbitov na Žižkově1.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:%C5%BDidovsk%C3%BD_h%C5%99bitov_na_%C5%BDi%C5%BEkov%C4%9B1.jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "Zp at Czech Wikipedia",
+   "kevarim": [
+    "fleckeles-prague"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/putte-near-antwerp-32da.webp",
+   "file": "File:Joodse begraafplaats Putte Machsike Hadass.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:Joodse_begraafplaats_Putte_Machsike_Hadass.JPG",
+   "license": "CC BY-SA 4.0",
+   "author": "Eli en Dinie Maas",
+   "kevarim": [
+    "reb-itzikel-przeworsk",
+    "reb-yankele-przeworsk"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/radomsko-radomsk-2cb7.webp",
+   "file": "File:Ohel cadyków rabinowiczów w radomsku.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:Ohel_cadyk%C3%B3w_rabinowicz%C3%B3w_w_radomsku.JPG",
+   "license": "CC BY-SA 3.0",
+   "author": "Bigmac3986",
+   "kevarim": [
+    "tiferes-shlomo"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/satoraljaujhely-ujh-030d.webp",
+   "file": "File:Alte jüdische Friedhof, Eingang, 2021 Sátoraljaújhely.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Alte_j%C3%BCdische_Friedhof,_Eingang,_2021_S%C3%A1toralja%C3%BAjhely.jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "Globetrotter19",
+   "kevarim": [
+    "sender-komarna-ujhel",
+    "pinchas-rappaport-ujhel"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/sokolow-malopolski-71f6.webp",
+   "file": "File:Jewish cemetery Sokolow Malopolski IMGP4601.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Jewish_cemetery_Sokolow_Malopolski_IMGP4601.jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "Nikodem Nijaki",
+   "kevarim": [
+    "rudniker-rebbe-sokolow"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/strykow-strikov-6b9a.webp",
+   "file": "File:Ohel cadykow strykowskich-Ohel of Strykow tzadiks.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:Ohel_cadykow_strykowskich-Ohel_of_Strykow_tzadiks.JPG",
+   "license": "CC BY 3.0",
+   "author": "Mzungu",
+   "kevarim": [
+    "strikover-rebbe"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/szydlowiec-shidlovt-ee01.webp",
+   "file": "File:21 listopada 2013 - cmentarz żydowski kon XVII Szydłowiec - 1.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:21_listopada_2013_-_cmentarz_%C5%BCydowski_kon_XVII_Szyd%C5%82owiec_-_1.jpg",
+   "license": "CC BY-SA 3.0 pl",
+   "author": "Wojciech Domagała",
+   "kevarim": [
+    "nosson-dovid-shidlovtza",
+    "aron-edus-bialobrzeg"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/vienna-seegasse.webp",
+   "file": "File:Jüdischer Friedhof Seegasse 9-11.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:J%C3%BCdischer_Friedhof_Seegasse_9-11.JPG",
+   "license": "CC BY 3.0",
+   "author": "Ginchiller (talk)",
+   "kevarim": [
+    "shabtai-sheftel-horowitz-vienna",
+    "safra-detzniusa-vienna"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/vienna-zentralfriedhof-tor1.webp",
+   "file": "File:Wien, Zentralfriedhof, Alter Jüdischer Friedhof -- 2018 -- 3218.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Wien,_Zentralfriedhof,_Alter_J%C3%BCdischer_Friedhof_--_2018_--_3218.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Dietmar Rabich",
+   "kevarim": [
+    "boyan-pachad-yitzchak-vienna"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/vienna-zentralfriedhof-tor4.webp",
+   "file": "File:Neuer Jüdischer Friedhof.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Neuer_J%C3%BCdischer_Friedhof.jpg",
+   "license": "CC BY-SA 2.5",
+   "author": "Invisigoth67",
+   "kevarim": [
+    "baruch-dov-hornostaipil-vienna",
+    "mordechai-monastrishtch-vienna",
+    "yosef-engel-vienna",
+    "chortkover-rebbe-yisrael-vienna",
+    "kopyczynitz-yitzchak-meir-vienna"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/vilnius-suderve-8d7c.webp",
+   "file": "File:Jewish cemetery vilnius.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:Jewish_cemetery_vilnius.JPG",
+   "license": "CC BY 3.0",
+   "author": "Ronenakaydar",
+   "kevarim": [
+    "chayei-adam-vilna"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/warka-vorka-36ad.webp",
+   "file": "File:Ohel cadykow wareckich-Ohel of Warka tzadiks-02.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:Ohel_cadykow_wareckich-Ohel_of_Warka_tzadiks-02.JPG",
+   "license": "CC BY 3.0",
+   "author": "Mzungu",
+   "kevarim": [
+    "yitzchak-vorka"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/warsaw-okopowa-00a4.webp",
+   "file": "File:251012 General views of Jewish Cemetery in Warsaw - 06.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:251012_General_views_of_Jewish_Cemetery_in_Warsaw_-_06.jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "Jolanta Dyr",
+   "kevarim": [
+    "luftbier-avraham-warsaw",
+    "avraham-mordechai-alter-warsaw",
+    "terumas-zahav-warsaw",
+    "kamenitzer-warsaw",
+    "chaim-brisker",
+    "silberberg-warsaw",
+    "berkzon-warsaw",
+    "luftbier-leibel-warsaw",
+    "meir-shlomo-mezritch-warsaw",
+    "menashe-kozhnitz-warsaw",
+    "naftali-davidsohn-warsaw",
+    "netziv-warsaw",
+    "nechemia-alter-warsaw",
+    "shlomo-alter-warsaw",
+    "shlomo-kohen-rabinowitz-warsaw",
+    "shlomo-zalman-lifschitz",
+    "radzyminer-rebbe",
+    "tiferes-yaakov-gesundheit-warsaw",
+    "yaakov-moshe-warsaw",
+    "bilgrei-warsaw",
+    "yeshaya-muskat-praga-warsaw",
+    "yeshaya-prives-warsaw",
+    "yosef-volia-warsaw",
+    "novominsker-alter-yisrael-shimon-warsaw",
+    "chasdei-dovid-sochatchov-warsaw",
+    "strikover-elimelech-menachem-mendel-warsaw",
+    "emanuel-pshedbozh-warsaw",
+    "menachem-amshinov-warsaw",
+    "zlatipola-mordechai-yosef-warsaw",
+    "moshe-mordechai-pilov-warsaw",
+    "pelcovizna-moshe-mordechai-warsaw",
+    "koidanover-nechemia-warsaw",
+    "radomsker-shlomo-chanoch-warsaw",
+    "yitzchak-zelig-sokolov-warsaw",
+    "yosef-kalish-amshinov-warsaw",
+    "menachem-mendel-vorka"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/zawiercie-1406.webp",
+   "file": "File:Ohel cadykow z Jezowa i Zawiercia-Ohel of tzadiks from Jezow and Zawiercie-01.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:Ohel_cadykow_z_Jezowa_i_Zawiercia-Ohel_of_tzadiks_from_Jezow_and_Zawiercie-01.JPG",
+   "license": "CC BY 3.0",
+   "author": "Mzungu",
+   "kevarim": [
+    "meir-bornstein-zawiercie",
+    "menachem-mendel-rothenberg-zawiercie",
+    "yisrael-leib-krimilov-zawiercie"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kevarim/zwolen-zvolin-ab5f.webp",
+   "file": "File:Ohel cadykow ze Zwolenia-Ohel of Zwolen tzadiks-01.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:Ohel_cadykow_ze_Zwolenia-Ohel_of_Zwolen_tzadiks-01.JPG",
+   "license": "CC BY 3.0",
+   "author": "Mzungu",
+   "kevarim": [
+    "zvoliner-rebbe"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kever__anipoli-maggid-zusha.webp",
+   "file": "File:Hannopil Jewish cemetery.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Hannopil_Jewish_cemetery.jpg",
+   "license": "CC BY 4.0",
+   "author": "Ujew",
+   "kevarim": [
+    "maggid-mezritch",
+    "zusha-anipoli"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kever__belz-rebbes.webp",
+   "file": "File:Белз. Єврейський цвинтар.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:%D0%91%D0%B5%D0%BB%D0%B7._%D0%84%D0%B2%D1%80%D0%B5%D0%B9%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%86%D0%B2%D0%B8%D0%BD%D1%82%D0%B0%D1%80.JPG",
+   "license": "CC BY-SA 3.0",
+   "author": "Соломія Палюга",
+   "kevarim": [
+    "sar-shalom-belz",
+    "yehoshua-belz",
+    "yissachar-dov-belz"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kever__berdychiv-kedushas-levi.webp",
+   "file": "File:Berdychiv. Jewish cemetery -03.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Berdychiv._Jewish_cemetery_-03.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "A.Lapshin",
+   "kevarim": [
+    "rabbi-dan-radvil"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kever__bratislava-chasam-sofer.webp",
+   "file": "File:Mausoleum of Moses Sofer.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Mausoleum_of_Moses_Sofer.jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "(Smerus at en.wikipedia at 08:56, on 30 June 2006. File name: File:Sofermausoleum.jpg)",
+   "kevarim": [
+    "rabbi-akiva-eger-i",
+    "rabbi-daniel-prostitz",
+    "maharam-barby",
+    "meshulam-igra-pressburg",
+    "chasam-sofer-bratislava"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kever__bratslav-cemetery.webp",
+   "file": "File:Bratslav cemetery 4.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Bratslav_cemetery_4.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "V1snyk",
+   "kevarim": [
+    "reb-nosson-breslov"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kever__ger-ohel.webp",
+   "file": "File:Kirkut Góra Kalwaria 06.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Kirkut_G%C3%B3ra_Kalwaria_06.jpg",
+   "license": "CC BY-SA 3.0 pl",
+   "author": "Piotr Moroz",
+   "kevarim": [
+    "sfas-emes-ger",
+    "chiddushei-harim-ger"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kever__kerestir-reb-shayala.webp",
+   "file": "File:Hrob Ješaji Steinera.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Hrob_Je%C5%A1aji_Steinera.jpg",
+   "license": "CC BY 4.0",
+   "author": "Ondřej Žváček",
+   "kevarim": [
+    "reb-shayala-kerestir"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kever__kozienice-gate.webp",
+   "file": "File:Kozienice.Kirkut.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:Kozienice.Kirkut.JPG",
+   "license": "CC BY-SA 3.0 pl",
+   "author": "Rafał Terkner",
+   "kevarim": [
+    "maggid-kozhnitz"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kever__krakow-rema.webp",
+   "file": "File:Kraków Cmentarz Remuh 14.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Krak%C3%B3w_Cmentarz_Remuh_14.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Zala",
+   "kevarim": [
+    "rema-krakow"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kever__lezajsk-noam-elimelech.webp",
+   "file": "File:Jewish cemetery in Leżajsk (Poland)10.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Jewish_cemetery_in_Le%C5%BCajsk_(Poland)10.jpg",
+   "license": "CC BY 2.0",
+   "author": "Emmanuel DYAN from Paris, France",
+   "kevarim": [
+    "rebbe-elimelech-lizhensk"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kever__lublin-old-cemetery.webp",
+   "file": "File:Macewa na cmentarzu żydowskim w Lublinie.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Macewa_na_cmentarzu_%C5%BCydowskim_w_Lublinie.jpg",
+   "license": "CC BY-SA 3.0 pl",
+   "author": "Morlinki",
+   "kevarim": [
+    "maharam-lublin",
+    "chozeh-lublin"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kever__lyubavichi-ohel.webp",
+   "file": "File:Ohel in Lyubavichi 01.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Ohel_in_Lyubavichi_01.jpg",
+   "license": "CC0",
+   "author": "Nikolay Omonov",
+   "kevarim": [
+    "tzemach-tzedek-lubavitch",
+    "rebbe-maharash-lubavitch"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kever__medzhybizh-baal-shem-tov.webp",
+   "file": "File:Ohel Baal Shem Tov.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Ohel_Baal_Shem_Tov.jpg",
+   "license": "Public domain",
+   "author": "Eliyahu (Eli)",
+   "kevarim": [
+    "baal-shem-tov-medzhybizh",
+    "hershele-ostropoler-medzhybizh",
+    "rabbi-baruch-medzhybizh",
+    "degel-machaneh-ephraim",
+    "wolf-kitzes-medzhybizh",
+    "ohev-yisrael-apta",
+    "simcha-father-rebbe-nachman"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kever__nowy-sacz-divrei-chaim.webp",
+   "file": "File:Nowy Sącz, cmentarz żydowski, kon. XIX 3.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:Nowy_S%C4%85cz,_cmentarz_%C5%BCydowski,_kon._XIX_3.JPG",
+   "license": "CC BY-SA 3.0 pl",
+   "author": "Fmbar22",
+   "kevarim": [
+    "divrei-chaim-sanz"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kever__ostroh-cemetery.webp",
+   "file": "File:Ostroh, Jewish cemetery -04.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Ostroh,_Jewish_cemetery_-04.jpg",
+   "license": "CC BY 4.0",
+   "author": "Hr.Arshynov",
+   "kevarim": [
+    "maharsha-ostroh",
+    "rav-yeivi-ostroh"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kever__prague-maharal.webp",
+   "file": "File:Maharal's Tomb-Prague.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Maharal%27s_Tomb-Prague.jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "Yair Haklai",
+   "kevarim": [
+    "maharal-prague"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kever__rymanow-ohel.webp",
+   "file": "File:Rymanów, cmentarz żydowski (HB2).jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Ryman%C3%B3w,_cmentarz_%C5%BCydowski_(HB2).jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Henryk Bielamowicz",
+   "kevarim": [
+    "menachem-mendel-rimanov",
+    "tzvi-hirsh-rymanov",
+    "tzvi-ben-chozeh-rymanow",
+    "yosef-hakohen-rymanow"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kever__satoraljaujhely-yismach-moshe.webp",
+   "file": "File:Alte jüdische Friedhof, O, 2021 Sátoraljaújhely.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Alte_j%C3%BCdische_Friedhof,_O,_2021_S%C3%A1toralja%C3%BAjhely.jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "Globetrotter19",
+   "kevarim": [
+    "yismach-moshe"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kever__uman-rebbe-nachman.webp",
+   "file": "File:Могила цадика Нахмана.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D0%B0_%D1%86%D0%B0%D0%B4%D0%B8%D0%BA%D0%B0_%D0%9D%D0%B0%D1%85%D0%BC%D0%B0%D0%BD%D0%B0.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Aniskov",
+   "kevarim": [
+    "rebbe-nachman-uman"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kever__worms-heiliger-sand.webp",
+   "file": "File:Jewish cemetery Worms.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Jewish_cemetery_Worms.jpg",
+   "license": "Public domain",
+   "author": "No machine-readable author provided. PanchoS assumed (based on copyright claims).",
+   "kevarim": [
+    "eliyahu-baal-shem-worms",
+    "maharam-rothenburg-worms",
+    "chavos-yair-worms"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/kotzker-rebbe__kever.webp",
+   "file": "File:Jewish Cemetery Kock IMGP2319.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Jewish_Cemetery_Kock_IMGP2319.jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "Nikodem Nijaki",
+   "kevarim": [
+    "kotzker-rebbe"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/linsker-rebbe-lesko__kever.webp",
+   "file": "File:Cmentarz zydowski Lesko4.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Cmentarz_zydowski_Lesko4.jpg",
+   "license": "Public domain",
+   "author": "Dominik Zarzycki",
+   "kevarim": [
+    "linsker-rebbe-lesko",
+    "avraham-chaim-linsk",
+    "shmelke-linsk"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/menasseh-ben-israel-ouderkerk__beth-haim.webp",
+   "file": "File:Beth Haim Ouderkerk aan de Amstel.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:Beth_Haim_Ouderkerk_aan_de_Amstel.JPG",
+   "license": "CC BY-SA 3.0 nl",
+   "author": "Marcelmulder68",
+   "kevarim": [
+    "morteira-ouderkerk",
+    "menasseh-ben-israel-ouderkerk"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/moshe-halberstam-bardejov__kever.webp",
+   "file": "File:Jewish cemetery (Bardejov) 1.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Jewish_cemetery_(Bardejov)_1.jpg",
+   "license": "CC BY 4.0",
+   "author": "Wanfried-Dublin",
+   "kevarim": [
+    "moshe-halberstam-bardejov"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/nathan-adler-frankfurt__cemetery-battonnstrasse-gs-0081-0478-r-n.webp",
+   "file": "File:Cemetery-Battonnstrasse-GS-0081-0478-R. Natan ben Schimon Adler KaZ (17.09.1800).jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Cemetery-Battonnstrasse-GS-0081-0478-R._Natan_ben_Schimon_Adler_KaZ_(17.09.1800).jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "Simsalabimbam",
+   "kevarim": [
+    "nathan-adler-frankfurt"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/panim-meiros-eisenstadt__grave-of-meir-ben-izsak-eisenstadt-c-167.webp",
+   "file": "File:Grave of Meir ben Izsak Eisenstadt (c. 1670, Poznań - 1744, Eisenstadt).JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:Grave_of_Meir_ben_Izsak_Eisenstadt_(c._1670,_Pozna%C5%84_-_1744,_Eisenstadt).JPG",
+   "license": "CC BY-SA 3.0",
+   "author": "Vischroni",
+   "kevarim": [
+    "panim-meiros-eisenstadt"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/pnei-yehoshua-frankfurt__cemetery-battonnstrasse-gs-0082-0480-r-j.webp",
+   "file": "File:Cemetery-Battonnstrasse-GS-0082-0480-R. Jaakow Jehoschua (Pne Jehoschua) (16.01.1756).jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Cemetery-Battonnstrasse-GS-0082-0480-R._Jaakow_Jehoschua_(Pne_Jehoschua)_(16.01.1756).jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "Simsalabimbam",
+   "kevarim": [
+    "pnei-yehoshua-frankfurt"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/rebbe-shmelke-nikolsburg__mikulov-cemetery-05-jpg.webp",
+   "file": "File:Mikulov cemetery 05.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Mikulov_cemetery_05.jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "feťour",
+   "kevarim": [
+    "rebbe-shmelke-nikolsburg",
+    "tzemach-tzedek-krochmal-nikolsburg"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/shaagas-aryeh-metz__cemetery-entrance.webp",
+   "file": "File:Entree cimetiere israelite Chambieres Metz.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:Entree_cimetiere_israelite_Chambieres_Metz.JPG",
+   "license": "CC BY-SA 3.0",
+   "author": "Aimelaime",
+   "kevarim": [
+    "shaagas-aryeh-metz",
+    "avodas-hagershuni-metz",
+    "shmuel-hillman-metz",
+    "shvus-yaakov-metz",
+    "kikayon-dyonah-metz"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__30.webp",
+   "file": "File:Погребище єврейське кладовище ХІХ ст. 30.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%BE%D0%B3%D1%80%D0%B5%D0%B1%D0%B8%D1%89%D0%B5_%D1%94%D0%B2%D1%80%D0%B5%D0%B9%D1%81%D1%8C%D0%BA%D0%B5_%D0%BA%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D0%B8%D1%89%D0%B5_%D0%A5%D0%86%D0%A5_%D1%81%D1%82._30.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Михайло Потупчик",
+   "kevarim": [
+    "rabbi-avraham-prohobisht",
+    "rabbi-sholom-shachna-prohobisht"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__61-248-0037-pidhaitsi-jewish-cemetery-rb.webp",
+   "file": "File:61-248-0037 Pidhaitsi Jewish Cemetery RB.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:61-248-0037_Pidhaitsi_Jewish_Cemetery_RB.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Rbrechko",
+   "kevarim": [
+    "masas-binyamin-pidhaitsi"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__alter-judischer-friedhof-2023-mako.webp",
+   "file": "File:Alter jüdischer Friedhof, 2023 Makó.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Alter_j%C3%BCdischer_Friedhof,_2023_Mak%C3%B3.jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "Globetrotter19",
+   "kevarim": [
+    "yerios-shlomo-mako"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__antkapiai-telsiu-zydu-kapinese-4.webp",
+   "file": "File:Antkapiai Telšių žydų kapinėse 4.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Antkapiai_Tel%C5%A1i%C5%B3_%C5%BEyd%C5%B3_kapin%C4%97se_4.jpg",
+   "license": "CC0",
+   "author": "Homo ergaster",
+   "kevarim": [
+    "maayanei-yehoshua-telz",
+    "shiurei-daas-telz"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__august-2023-in-biaystok-jewish-cemetery-in-wschodn.webp",
+   "file": "File:August 2023 in Białystok - Jewish cemetery in Wschodnia street 02.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:August_2023_in_Bia%C5%82ystok_-_Jewish_cemetery_in_Wschodnia_street_02.jpg",
+   "license": "CC0",
+   "author": "Rakoon",
+   "kevarim": [
+    "etz-yosef-bialystok",
+    "oneg-yom-tov-bialystok"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__barnett-ohel-western-cemetery-cheshunt.webp",
+   "file": "File:Barnett Ohel, Western Cemetery, Cheshunt.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Barnett_Ohel,_Western_Cemetery,_Cheshunt.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Robert Smith",
+   "kevarim": [
+    "solomon-schonfeld-london"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__berezhany-jewish-cemetery-12.webp",
+   "file": "File:Berezhany Jewish Cemetery (12).jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Berezhany_Jewish_Cemetery_(12).jpg",
+   "license": "Public domain",
+   "author": "Roman Zacharij",
+   "kevarim": [
+    "leibush-halperin-berezhany",
+    "meshulam-shraga-feivush-halperin-of-bere-berezhany",
+    "maharsham-berezhany"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__big-synagogue-in-eczna-2022-kirkut.webp",
+   "file": "File:Big Synagogue in Łęczna 2022 (kirkut).jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Big_Synagogue_in_%C5%81%C4%99czna_2022_(kirkut).jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "MOs810",
+   "kevarim": [
+    "ayzik-lentshna",
+    "shlomo-leib-lentshna"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__brody-jewish-cemetery-19.webp",
+   "file": "File:Brody Jewish Cemetery (19).jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Brody_Jewish_Cemetery_(19).jpg",
+   "license": "Public domain",
+   "author": "Roman Zacharij",
+   "kevarim": [
+    "mateh-ephraim",
+    "yitzchak-itzikel-rubin-brody",
+    "shlomo-kluger-brody"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__cemetery-fastov.webp",
+   "file": "File:Cemetery Fastov.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Cemetery_Fastov.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Tetiana Malykh",
+   "kevarim": [
+    "rabbi-avraham-hamalach",
+    "rabbi-yisrael-polotsk"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__cemetery-polonne-01.webp",
+   "file": "File:Cemetery Polonne 01.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Cemetery_Polonne_01.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Mummik",
+   "kevarim": [
+    "mochiah-polonne",
+    "rabbi-dovid-purkes-polonne",
+    "toldos-yaakov-yosef"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__chem-dd02fb.webp",
+   "file": "File:Jewish cemetery in Chelm (7).JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:Jewish_cemetery_in_Chelm_(7).JPG",
+   "license": "CC BY-SA 3.0",
+   "author": "Alina Zienowicz Ala z",
+   "kevarim": [
+    "meir-neuhaus-chelm",
+    "moshe-adimashik-chelm",
+    "neta-shaashuim-chelm"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__chornobyl-jewish-cemetery.webp",
+   "file": "File:Chornobyl. Jewish cemetery.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Chornobyl._Jewish_cemetery.jpg",
+   "license": "Public domain",
+   "author": "Павло Жолтовський",
+   "kevarim": [
+    "aharon-chernobyl",
+    "chernobyl-rebbe"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__chrzanow-cmentarz-zydowski.webp",
+   "file": "File:Chrzanow cmentarz zydowski.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Chrzanow_cmentarz_zydowski.jpg",
+   "license": "Public domain",
+   "author": "No machine-readable author provided. Obbie assumed (based on copyright claims).",
+   "kevarim": [
+    "dovid-kshanov"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__cmentarz-zydowski-gorlice.webp",
+   "file": "File:Cmentarz Żydowski - Gorlice.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:Cmentarz_%C5%BBydowski_-_Gorlice.JPG",
+   "license": "CC BY-SA 3.0 pl",
+   "author": "Stratus169",
+   "kevarim": [
+    "baruch-gorlitz",
+    "pinchas-zablie-gorlice",
+    "tzvi-hirsh-rudnik"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__cmentarz-zydowski-ostrowiec-swietokrzyski-ostrovts.webp",
+   "file": "File:Cmentarz żydowski Ostrowiec Świętokrzyski Ostrovtse Ostrovetz Old Jewish Cemetery 11.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:Cmentarz_%C5%BCydowski_Ostrowiec_%C5%9Awi%C4%99tokrzyski_Ostrovtse_Ostrovetz_Old_Jewish_Cemetery_11.JPG",
+   "license": "CC BY-SA 3.0 pl",
+   "author": "Wojciech Domagała",
+   "kevarim": [
+    "ostrovtser-rebbe"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__cmentarz-zydowski-w-aleksandrowie-odzkim.webp",
+   "file": "File:Cmentarz żydowski w Aleksandrowie Łódzkim.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Cmentarz_%C5%BCydowski_w_Aleksandrowie_%C5%81%C3%B3dzkim.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Śryż",
+   "kevarim": [
+    "chanoch-henoch-alexander",
+    "tiferes-shmuel-alexander",
+    "yechiel-danziger-alexander",
+    "yismach-yisroel-alexander"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__cmentarz-zydowski-w-bochni-jewish-cemetery-in-boch.webp",
+   "file": "File:Cmentarz żydowski w Bochni Jewish cemetery in Bochnia -- 5.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:Cmentarz_%C5%BCydowski_w_Bochni_Jewish_cemetery_in_Bochnia_--_5.JPG",
+   "license": "CC BY-SA 3.0 pl",
+   "author": "Wojciech Domagała",
+   "kevarim": [
+    "asher-meir-halberstam-bochnia"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__cmentarz-zydowski-w-czestochowie-6p.webp",
+   "file": "File:Cmentarz żydowski w Częstochowie 6p.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Cmentarz_%C5%BCydowski_w_Cz%C4%99stochowie_6p.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Przykuta",
+   "kevarim": [
+    "nachum-asch-czestochowa",
+    "sifsei-tzaddik-pilica",
+    "yitzchak-meir-justman-czestochowa"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__cmentarz-zydowski-w-lesznie-macewy.webp",
+   "file": "File:Cmentarz żydowski w Lesznie - macewy.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:Cmentarz_%C5%BCydowski_w_Lesznie_-_macewy.JPG",
+   "license": "CC BY 3.0",
+   "author": "Bartymeusz",
+   "kevarim": [
+    "dovid-tevele-lissa",
+    "yehuda-leib-kalisher-lissa"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__cmentarz-zydowski-w-przysusze-01.webp",
+   "file": "File:Cmentarz zydowski w Przysusze 01.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Cmentarz_zydowski_w_Przysusze_01.jpg",
+   "license": "Public domain",
+   "author": "A. Wielgo",
+   "kevarim": [
+    "maggid-pshischa",
+    "yid-hakadosh",
+    "yerachmiel-pshischa"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__dabrowa-tarnowska-cmentarz-zydowski-02.webp",
+   "file": "File:Dąbrowa Tarnowska (cmentarz żydowski) 02.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:D%C4%85browa_Tarnowska_(cmentarz_%C5%BCydowski)_02.jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "\n\n\nIf you are willing to use this photo, please caption it as follows:\n\n\nauthor:",
+   "kevarim": [
+    "moshe-elyakim-bria-dombrova",
+    "yehuda-leib-kohen-dombrova",
+    "yosef-unger-dombrova",
+    "mordechai-dovid-dombrova"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__dolyna-jewish-cemetery-27.webp",
+   "file": "File:Dolyna Jewish cemetery 27.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Dolyna_Jewish_cemetery_27.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "TarichaRivularis",
+   "kevarim": [
+    "rabbi-moshe-dolina",
+    "yissachar-berish-eichenstein-dolyna"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__drohobych-old-jewish-cemetery.webp",
+   "file": "File:Drohobych old Jewish cemetery.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Drohobych_old_Jewish_cemetery.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Renata Hanynets",
+   "kevarim": [
+    "asher-ii-of-stolin-drohobych",
+    "drohobitsher-rav"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__dsc01566.webp",
+   "file": "File:Єврейське кладовище ХІХ ст Ямпіль DSC01566.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:%D0%84%D0%B2%D1%80%D0%B5%D0%B9%D1%81%D1%8C%D0%BA%D0%B5_%D0%BA%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D0%B8%D1%89%D0%B5_%D0%A5%D0%86%D0%A5_%D1%81%D1%82_%D0%AF%D0%BC%D0%BF%D1%96%D0%BB%D1%8C_DSC01566.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Михайло Потупчик",
+   "kevarim": [
+    "yosef-yampola"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__dukla-jewish-cemetery-06.webp",
+   "file": "File:Dukla - Jewish cemetery 06.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Dukla_-_Jewish_cemetery_06.jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "Yarl",
+   "kevarim": [
+    "avigdor-halberstam-dukla",
+    "chaim-yaakov-strauss-dukla",
+    "yaakov-hakohen-gutwirth-dukla",
+    "revid-hazahav-dukla",
+    "yitzchak-isaac-halevi-weistman-dukla"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__dunajska-streda-zidovsky-cintorin-2019-02.webp",
+   "file": "File:Dunajská Streda, židovský cintorín 2019 02.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Dunajsk%C3%A1_Streda,_%C5%BEidovsk%C3%BD_cintor%C3%ADn_2019_02.jpg",
+   "license": "CC BY 2.0",
+   "author": "bratislavskysamospravnykraj",
+   "kevarim": [
+    "yehuda-assad-dunajska-streda"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__grave-of-nachum-sofer-jewish-cemetery-in-tachov-c-.webp",
+   "file": "File:Grave of Nachum Sofer, Jewish Cemetery in Tachov (c. 1930).jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Grave_of_Nachum_Sofer,_Jewish_Cemetery_in_Tachov_(c._1930).jpg",
+   "license": "Public domain",
+   "author": "Unknown authorUnknown author",
+   "kevarim": [
+    "nachum-sofer-tachov"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__grave-of-rabbi-mordechai-of-nadvorno-in-bushtyno.webp",
+   "file": "File:Grave of Rabbi Mordechai of Nadvorno in Bushtyno.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Grave_of_Rabbi_Mordechai_of_Nadvorno_in_Bushtyno.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Sf2000",
+   "kevarim": [
+    "nadvorna-mordechai"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__grave-of-rebe-duvid-moishe-from-chortkiv.webp",
+   "file": "File:Grave of Rebe Duvid Moishe from Chortkiv.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Grave_of_Rebe_Duvid_Moishe_from_Chortkiv.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "O.Denysenko",
+   "kevarim": [
+    "david-moshe-chortkov"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__grob-a-egera.webp",
+   "file": "File:Grob a egera.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:Grob_a_egera.JPG",
+   "license": "Public domain",
+   "author": "Sidrom",
+   "kevarim": [
+    "rabbi-akiva-eger-ii"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__grodzisk-mazowiecki-kirkut-11.webp",
+   "file": "File:Grodzisk Mazowiecki - kirkut 11.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:Grodzisk_Mazowiecki_-_kirkut_11.JPG",
+   "license": "CC BY 3.0",
+   "author": "Mzungu",
+   "kevarim": [
+    "grodzisker-rebbe"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__hnativka-anatevka-chernobyl-maggid-tzion-02.webp",
+   "file": "File:Hnativka (Anatevka), Chernobyl Maggid tzion -02.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Hnativka_(Anatevka),_Chernobyl_Maggid_tzion_-02.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "JewishNews",
+   "kevarim": [
+    "binyamin-zev-anatevka"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__irshava-ilosva-jewish-cemetery-05.webp",
+   "file": "File:Irshava (Ilosva), Jewish cemetery -05.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Irshava_(Ilosva),_Jewish_cemetery_-05.jpg",
+   "license": "CC BY 3.0",
+   "author": "М.Раковци",
+   "kevarim": [
+    "shabsai-lifshitz-irshava"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__ivano-frankivsk-new-jewish-cemetery-13.webp",
+   "file": "File:Ivano-Frankivsk new Jewish cemetery 13.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Ivano-Frankivsk_new_Jewish_cemetery_13.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Marla Raucher Osborn",
+   "kevarim": [
+    "otynia-tal-chaim",
+    "meshulam-yissachar-stanislav",
+    "burshtiner-reb-nachum"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__jewish-cementery-hajdudorog.webp",
+   "file": "File:Jewish cementery Hajdudorog.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Jewish_cementery_Hajdudorog.jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "Jojojoe",
+   "kevarim": [
+    "imrei-shefer-dorog",
+    "agados-maharzatz-dorog"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__jewish-cemetery-borisov-1d.webp",
+   "file": "File:Jewish cemetery Borisov 1d.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Jewish_cemetery_Borisov_1d.jpg",
+   "license": "CC0",
+   "author": "Vadim Akopyan",
+   "kevarim": [
+    "gadol-minsk-perlman"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__jewish-cemetery-gdansk-chem-grave4.webp",
+   "file": "File:Jewish Cemetery Gdańsk-Chełm, grave4.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Jewish_Cemetery_Gda%C5%84sk-Che%C5%82m,_grave4.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Oruniak",
+   "kevarim": [
+    "elchanan-ashkenazi-danzig",
+    "beis-meir-danzig",
+    "tiferes-yisrael-danzig"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__jewish-cemetery-in-bedzin-september-2020-1.webp",
+   "file": "File:Jewish cemetery in Będzin, September 2020 (1).jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Jewish_cemetery_in_B%C4%99dzin,_September_2020_(1).jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "MichalPL",
+   "kevarim": [
+    "yissachar-berish-groibart-bedzin"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__jewish-cemetery-in-bobowa25.webp",
+   "file": "File:Jewish cemetery in Bobowa25.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Jewish_cemetery_in_Bobowa25.jpg",
+   "license": "CC BY 2.0",
+   "author": "Emmanuel DYAN from Paris, France",
+   "kevarim": [
+    "chaim-yaakov-limanov-bobov",
+    "shlomo-halberstam-bobov"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__jewish-cemetery-in-buchach-2021-52.webp",
+   "file": "File:Jewish cemetery in Buchach (2021) 52.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Jewish_cemetery_in_Buchach_(2021)_52.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Antanana",
+   "kevarim": [
+    "butshetser-rav",
+    "neta-shaashuim-buchach"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__jewish-cemetery-in-kalisz-gravestones-risen-from-r.webp",
+   "file": "File:Jewish cemetery in Kalisz - gravestones risen from river.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Jewish_cemetery_in_Kalisz_-_gravestones_risen_from_river.jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "Filo cz",
+   "kevarim": [
+    "magen-avraham-kalisz",
+    "yechezkel-lipschitz-kalisz",
+    "woler-rav-kalisz"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__jewish-cemetery-in-kobrin-2f.webp",
+   "file": "File:Jewish cemetery in Kobrin 2f.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Jewish_cemetery_in_Kobrin_2f.jpg",
+   "license": "CC0",
+   "author": "Avner",
+   "kevarim": [
+    "ein-eliyahu-kobrin",
+    "nir-meir-marim-kobrin",
+    "rabbi-moshe-kobrin",
+    "pesach-pruskin-kobrin"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__jewish-cemetery-in-kosiv02.webp",
+   "file": "File:Jewish cemetery in Kosiv02.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Jewish_cemetery_in_Kosiv02.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "RenataHanynets",
+   "kevarim": [
+    "rabbi-baruch-kosov",
+    "toras-chaim-kosov",
+    "ahavas-shalom-kosov",
+    "yaakov-shimshon-kosov"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__jewish-cemetery-in-minsk-mazowiecki-2014-06.webp",
+   "file": "File:Jewish cemetery in Mińsk Mazowiecki 2014-06.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Jewish_cemetery_in_Mi%C5%84sk_Mazowiecki_2014-06.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Sloggi",
+   "kevarim": [
+    "yaakov-perlow-novominsk"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__jewish-cemetery-in-mir-grodno-region-2d.webp",
+   "file": "File:Jewish cemetery in Mir (Grodno Region) 2d.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Jewish_cemetery_in_Mir_(Grodno_Region)_2d.jpg",
+   "license": "CC0",
+   "author": "Avner",
+   "kevarim": [
+    "reb-yerucham-mir"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__jewish-cemetery-in-novi-srtiluscha01.webp",
+   "file": "File:Jewish cemetery in Novi Srtiluscha01.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Jewish_cemetery_in_Novi_Srtiluscha01.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "RenataHanynets",
+   "kevarim": [
+    "seraph-strelisk"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__jewish-cemetery-in-olesko03.webp",
+   "file": "File:Jewish cemetery in Olesko03.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Jewish_cemetery_in_Olesko03.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "RenataHanynets",
+   "kevarim": [
+    "lev-sameach"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__jewish-cemetery-in-peremyshliany06.webp",
+   "file": "File:Jewish cemetery in Peremyshliany06.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Jewish_cemetery_in_Peremyshliany06.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "RenataHanynets",
+   "kevarim": [
+    "meir-hagadol-premishlan",
+    "reb-meirl-premishlan"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__jewish-cemetery-in-piotrkow-040.webp",
+   "file": "File:Jewish Cemetery in Piotrkow 040.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Jewish_Cemetery_in_Piotrkow_040.jpg",
+   "license": "CC BY 3.0",
+   "author": "Zorro2212",
+   "kevarim": [
+    "reb-dovid-bernhard-piotrkow",
+    "radoshitzer-piotrkow"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__jewish-cemetery-in-pobezovice-2012-08-01.webp",
+   "file": "File:Jewish cemetery in Poběžovice - 2012-08-01.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Jewish_cemetery_in_Pob%C4%9B%C5%BEovice_-_2012-08-01.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Werner1122",
+   "kevarim": [
+    "yosef-regensburg-pobezovice"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__jewish-cemetery-jaroslaw-2.webp",
+   "file": "File:Jewish cemetery Jaroslaw 2.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Jewish_cemetery_Jaroslaw_2.jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "Nikodem Nijaki",
+   "kevarim": [
+    "bunim-mendel-rivlas-jaroslaw",
+    "kehas-jaroslaw",
+    "reb-shimon-jaroslaw",
+    "zecharia-mendel-jaroslaw"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__jewish-cemetery-kremenchuk-03.webp",
+   "file": "File:Jewish Cemetery, Kremenchuk 03.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Jewish_Cemetery,_Kremenchuk_03.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Oleh Kushch",
+   "kevarim": [
+    "leib-dubrovner-kremenchuk"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__jewish-cemetery-sieniawa-imgp4507.webp",
+   "file": "File:Jewish cemetery Sieniawa IMGP4507.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Jewish_cemetery_Sieniawa_IMGP4507.jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "Nikodem Nijaki",
+   "kevarim": [
+    "chazon-nachum-dombrova",
+    "divrei-yechezkel-sieniawa"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__jewish-cemetery-tokaj.webp",
+   "file": "File:Jewish cemetery, Tokaj.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:Jewish_cemetery,_Tokaj.JPG",
+   "license": "CC BY-SA 3.0",
+   "author": "Rlevente",
+   "kevarim": [
+    "akiva-strasser-tokaj",
+    "chaim-zalman-moskovitz-tokaj",
+    "imrei-dovid-tokaj",
+    "shimon-yehuda-funfeder-tokaj"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__jewish-tombstones-in-chmielnik.webp",
+   "file": "File:Jewish Tombstones in Chmielnik.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Jewish_Tombstones_in_Chmielnik.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Jakub T. Jankiewicz",
+   "kevarim": [
+    "maharshak-chmielnik"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__judischer-friedhof-2025-vac.webp",
+   "file": "File:Jüdischer Friedhof, 2025 Vác.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:J%C3%BCdischer_Friedhof,_2025_V%C3%A1c.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Globetrotter19",
+   "kevarim": [
+    "shvilei-dovid-vac",
+    "moshe-komarn-vac",
+    "shalom-ullmann-vac",
+    "maaseh-lamelech-vac"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__judischer-trauerhalle-2022-balassagyarmat.webp",
+   "file": "File:Jüdischer Trauerhalle, 2022 Balassagyarmat.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:J%C3%BCdischer_Trauerhalle,_2022_Balassagyarmat.jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "Globetrotter19",
+   "kevarim": [
+    "goren-dovid-yarmat"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__kamianka-buzka-jewish-cemetery.webp",
+   "file": "File:Kamianka-Buzka Jewish cemetery.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Kamianka-Buzka_Jewish_cemetery.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "O.Denysenko",
+   "kevarim": [
+    "shalom-of-kaminka"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__kamianka-myropil-64eda7.webp",
+   "file": "File:Kamyanka (Myropil), Jewish cemetery -01.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Kamyanka_(Myropil),_Jewish_cemetery_-01.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Oholei Tzadikim",
+   "kevarim": [
+    "shmuel-kaminka",
+    "tzvi-hirsh-kaminka"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__kazimierz-dolny-jewish-tombstones.webp",
+   "file": "File:Kazimierz Dolny Jewish tombstones.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Kazimierz_Dolny_Jewish_tombstones.jpg",
+   "license": "CC BY 2.0",
+   "author": "Lidan from Beer Sheva, Israel",
+   "kevarim": [
+    "yechezkel-kuzmir"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__kielce-ohel-grobowiec-cadyka-mordechaja-kuzmirera-.webp",
+   "file": "File:Kielce. Ohel (grobowiec) cadyka Mordechaja Kuzmirera (1).jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Kielce._Ohel_(grobowiec)_cadyka_Mordechaja_Kuzmirera_(1).jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Gorofil",
+   "kevarim": [
+    "chaim-shmuel-chentshin",
+    "maamar-mordechai-trisk-kuzmir"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__kolomyia-jewish-cemetery-01.webp",
+   "file": "File:Kolomyia, Jewish cemetery -01.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Kolomyia,_Jewish_cemetery_-01.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "O.Denysenko",
+   "kevarim": [
+    "rabbi-hillel-kolomyia"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__kosice-jewish-cemetery-11.webp",
+   "file": "File:Košice, Jewish cemetery -11.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Ko%C5%A1ice,_Jewish_cemetery_-11.jpg",
+   "license": "CC BY 4.0",
+   "author": "O.Denysenko",
+   "kevarim": [
+    "divrei-shalom-stropkov",
+    "shaul-brach-kosice",
+    "radomyshler-gaon",
+    "beitsher-rav"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__kutno-cm-zydowski-macewa6.webp",
+   "file": "File:Kutno-cm żydowski macewa6.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Kutno-cm_%C5%BCydowski_macewa6.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Adi anakonda",
+   "kevarim": [
+    "yeshuos-malko-kutno-c3"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__michelstadt-germany-jewish-cemetery-01.webp",
+   "file": "File:Michelstadt Germany Jewish-Cemetery-01.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Michelstadt_Germany_Jewish-Cemetery-01.jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "CEphoto, Uwe Aranas",
+   "kevarim": [
+    "baal-shem-michelstadt"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__mielec-ul-jadernych-stary-cmentarz-zydowski.webp",
+   "file": "File:Mielec (ul. Jadernych) - stary cmentarz żydowski.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Mielec_(ul._Jadernych)_-_stary_cmentarz_%C5%BCydowski.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Patryk Duszkiewicz",
+   "kevarim": [
+    "elimelech-mielec"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__nadvirna-jewish-cemetery-51.webp",
+   "file": "File:Nadvirna Jewish cemetery 51.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Nadvirna_Jewish_cemetery_51.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "TarichaRivularis",
+   "kevarim": [
+    "meshulam-zusia-weissblum-nadvirna",
+    "tzvi-hirsh-the-maggid-nadvirna",
+    "yissachar-ber-leifer-nadvirna"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__nagrobek-na-cmentarzu-zydowskim-w-raduniu-2.webp",
+   "file": "File:Nagrobek na Cmentarzu Żydowskim w Raduniu 2.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Nagrobek_na_Cmentarzu_%C5%BBydowskim_w_Raduniu_2.jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "Pumanike48",
+   "kevarim": [
+    "naftali-trop-radin",
+    "chafetz-chaim-radun"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__necropolis-judia-de-lucena-2.webp",
+   "file": "File:Necrópolis judía de Lucena 2.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Necr%C3%B3polis_jud%C3%ADa_de_Lucena_2.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "JamesNarmer",
+   "kevarim": [
+    "rif-lucena"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__new-jewish-cemetery-in-papa-01.webp",
+   "file": "File:New Jewish cemetery in Pápa 01.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:New_Jewish_cemetery_in_P%C3%A1pa_01.jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "Renard (uploader, own work)",
+   "kevarim": [
+    "vayaged-yaakov-pupa"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__new-jewish-cemetery-in-zbarazh-2015-p-20150503-161.webp",
+   "file": "File:New Jewish cemetery in Zbarazh. 2015. P 20150503 161252.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:New_Jewish_cemetery_in_Zbarazh._2015._P_20150503_161252.jpg",
+   "license": "CC0",
+   "author": "Arxivist",
+   "kevarim": [
+    "binyamin-zev-wolf-zbarazh",
+    "yosher-divrei-emes"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__novi-velidnyky-vilednik-ccf886.webp",
+   "file": "File:Velidnyky Jewish cemetery -11.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Velidnyky_Jewish_cemetery_-11.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Oholei Tzadikim",
+   "kevarim": [
+    "viledniker-rebbe"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__ohel-i-tablica-nagrobna-na-starym-cmentarzu-zydows.webp",
+   "file": "File:Ohel i tablica nagrobna na starym cmentarzu żydowskim w Rohatynie.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Ohel_i_tablica_nagrobna_na_starym_cmentarzu_%C5%BCydowskim_w_Rohatynie.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Olgamielnikiewicz",
+   "kevarim": [
+    "moshe-yehoshua-heshel-orenstein-of-rohat-rohatyn",
+    "uri-rohatyn",
+    "yehuda-tzvi-stratin-rohatyn",
+    "yitzchak-aharon-rohatyn"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__ohel-na-starym-cmentarzu-zydowskim-dynow.webp",
+   "file": "File:Ohel na Starym cmentarzu Żydowskim, Dynów.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:Ohel_na_Starym_cmentarzu_%C5%BBydowskim,_Dyn%C3%B3w.JPG",
+   "license": "CC BY-SA 4.0",
+   "author": "Volodymyr D-k",
+   "kevarim": [
+    "tzemach-dovid-dinov",
+    "bnei-yissaschar",
+    "yehoshua-dinov",
+    "hanosen-imrei-shefer-dinov",
+    "yosef-shapira-dinov"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__ohel-of-khust-rabbis.webp",
+   "file": "File:Ohel of Khust Rabbis.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Ohel_of_Khust_Rabbis.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "תנא קמא",
+   "kevarim": [
+    "arugas-habosem-khust",
+    "maharam-schick",
+    "beis-hayotzer-khust"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__ohel-w-ancucie.webp",
+   "file": "File:Ohel w Łańcucie.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:Ohel_w_%C5%81a%C5%84cucie.JPG",
+   "license": "CC BY-SA 4.0",
+   "author": "Volodymyr D-k",
+   "kevarim": [
+    "elazar-shapira-lantzut",
+    "naftali-zvi-ropshitz"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__ohel-w-tarnobrzegu.webp",
+   "file": "File:Ohel w Tarnobrzegu.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Ohel_w_Tarnobrzegu.jpg",
+   "license": "CC BY-SA 3.0 pl",
+   "author": "Epegeiro",
+   "kevarim": [
+    "dzikover-rebbe",
+    "imrei-noam-dzikov",
+    "ateres-yeshua-dzikov"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__old-jewish-cemetery-cieszyn-grave.webp",
+   "file": "File:Old Jewish Cemetery Cieszyn grave.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Old_Jewish_Cemetery_Cieszyn_grave.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Jacek Daczyński",
+   "kevarim": [
+    "moshe-pannet-cieszyn",
+    "yosef-pannet-cieszyn"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__old-jewish-cemetery-in-stryi-07.webp",
+   "file": "File:Old Jewish cemetery in Stryi -07.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Old_Jewish_cemetery_in_Stryi_-07.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "O.Denysenko",
+   "kevarim": [
+    "chavat-daat-stryi",
+    "aryeh-leib-heller-stryi"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__opatow-cmentarz-zydowski-21.webp",
+   "file": "File:Opatów Cmentarz żydowski 21.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Opat%C3%B3w_Cmentarz_%C5%BCydowski_21.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Zala",
+   "kevarim": [
+    "or-lashamayim-apta"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__pistyn-jewish-cemetery-08.webp",
+   "file": "File:Pistyn Jewish cemetery 08.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Pistyn_Jewish_cemetery_08.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "TarichaRivularis",
+   "kevarim": [
+    "david-pistyn"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__podlaskie-bielsk-podlaski-bielsk-podlaski-branska-.webp",
+   "file": "File:Podlaskie - Bielsk Podlaski - Bielsk Podlaski - Brańska - Kirkut 06.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:Podlaskie_-_Bielsk_Podlaski_-_Bielsk_Podlaski_-_Bra%C5%84ska_-_Kirkut_06.JPG",
+   "license": "CC BY-SA 3.0",
+   "author": "Krzysztof Kundzicz",
+   "kevarim": [
+    "yefeh-einayim"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__przedborz-cmentarz-zydowski.webp",
+   "file": "File:Przedbórz, cmentarz żydowski.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Przedb%C3%B3rz,_cmentarz_%C5%BCydowski.jpg",
+   "license": "Public domain",
+   "author": "Stefan Zaborowski",
+   "kevarim": [
+    "yeshaya-pshedborz"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__radom-jewish-cemetery-ohel.webp",
+   "file": "File:Radom Jewish Cemetery - Ohel.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:Radom_Jewish_Cemetery_-_Ohel.JPG",
+   "license": "Public domain",
+   "author": "Farary",
+   "kevarim": [
+    "yaakov-yerachmiel-radom"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__radzymin-81f38f.webp",
+   "file": "File:Ohel cadyka Szlomo Jehoszuy Dawida Gutermana na cmentarzu żydowskim w Radzyminie.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Ohel_cadyka_Szlomo_Jehoszuy_Dawida_Gutermana_na_cmentarzu_%C5%BCydowskim_w_Radzyminie.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Nonick 1",
+   "kevarim": [
+    "shlomo-yehoshua-dovid-radzymin"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__reb-leib-sores-ohel-in-yaltushkiv-ukraine.webp",
+   "file": "File:Reb Leib Sores' Ohel in Yaltushkiv, Ukraine.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Reb_Leib_Sores%27_Ohel_in_Yaltushkiv,_Ukraine.jpg",
+   "license": "CC BY 4.0",
+   "author": "Akistol",
+   "kevarim": [
+    "reb-leib-sarahs"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__ropczyce-ul-polna-kirkut-ohel-z-1998-a.webp",
+   "file": "File:Ropczyce ul. Polna. Kirkut. Ohel z 1998 a.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Ropczyce_ul._Polna._Kirkut._Ohel_z_1998_a.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Janusz Krzyżek",
+   "kevarim": [
+    "asher-yeshaya-ropshitz"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__rosenwiller-cimjuif-22.webp",
+   "file": "File:Rosenwiller CimJuif 22.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:Rosenwiller_CimJuif_22.JPG",
+   "license": "CC BY-SA 4.0",
+   "author": "© Ralph Hammann - Wikimedia Commons",
+   "kevarim": [
+    "rosenwiller-cemetery"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__satu-mare-jewish-cemetery-01.webp",
+   "file": "File:Satu Mare – Jewish cemetery 01.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Satu_Mare_%E2%80%93_Jewish_cemetery_01.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Julian Nyča",
+   "kevarim": [
+    "keren-ledovid-satmar",
+    "zichron-yehuda-satmar",
+    "yissachar-dov-ber-leifer-satu-mare"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__siedlce-cmentarz-zydowski-macewy-2012-micbor.webp",
+   "file": "File:Siedlce Cmentarz Żydowski Macewy 2012 micbor.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:Siedlce_Cmentarz_%C5%BBydowski_Macewy_2012_micbor.JPG",
+   "license": "CC BY-SA 3.0 pl",
+   "author": "Michalbor",
+   "kevarim": [
+    "yerachmiel-tzvi-biala-shedlitz"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__skierniewice-00b8fd.webp",
+   "file": "File:New Jewish cemetery Skierniewice IMGP7274.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:New_Jewish_cemetery_Skierniewice_IMGP7274.jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "Nikodem Nijaki",
+   "kevarim": [
+    "shimon-skierniewice"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__szczebrzeszyn-kirkut.webp",
+   "file": "File:Szczebrzeszyn kirkut .jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Szczebrzeszyn_kirkut_.jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "Rafał Klisowski",
+   "kevarim": [
+    "mishpat-tzedek-szczebrzeszyn"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__talne-jewish-cemetery-04.webp",
+   "file": "File:Talne Jewish Cemetery 04.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Talne_Jewish_Cemetery_04.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "П.Зельдич",
+   "kevarim": [
+    "rabbi-dovid-talne"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__tarashcha-jewish-cemetery-ohel-of-rabbi-refael.webp",
+   "file": "File:Tarashcha Jewish cemetery. Ohel of Rabbi Refael.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Tarashcha_Jewish_cemetery._Ohel_of_Rabbi_Refael.jpg",
+   "license": "CC BY 4.0",
+   "author": "Makhon Breslev",
+   "kevarim": [
+    "rabbi-raphael-bershad"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__ternopil-jewish-cemetery.webp",
+   "file": "File:Ternopil Jewish cemetery.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Ternopil_Jewish_cemetery.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "V1snyk",
+   "kevarim": [
+    "minchat-chinuch-ternopil"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__ulanow-cmentarz-zydowski-w-ulanowie-nagrobki.webp",
+   "file": "File:Ulanów, Cmentarz żydowski w Ulanowie nagrobki.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Ulan%C3%B3w,_Cmentarz_%C5%BCydowski_w_Ulanowie_nagrobki.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Ateris2008 (ang.)",
+   "kevarim": [
+    "chanina-ulanow"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__volodymyr-volynska-ohel-of-rebbe-shlomo-of-karlin-.webp",
+   "file": "File:Volodymyr Volynska-Ohel of rebbe Shlomo of Karlin-1.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Volodymyr_Volynska-Ohel_of_rebbe_Shlomo_of_Karlin-1.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Galvm",
+   "kevarim": [
+    "reb-shlomo-karlin"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__vynohradiv-jewish-cemetery.webp",
+   "file": "File:Vynohradiv jewish cemetery.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Vynohradiv_jewish_cemetery.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "V1snyk",
+   "kevarim": [
+    "reb-baruch-father-alter-rebbe"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__vyzhnytsia-jewish-cemetery-04.webp",
+   "file": "File:Vyzhnytsia, Jewish cemetery -04.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Vyzhnytsia,_Jewish_cemetery_-04.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "O.Denysenko",
+   "kevarim": [
+    "imrei-baruch-vizhnitz",
+    "tzemach-tzaddik-vizhnitz"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__zhydachiv-jewish-cemetery-01.webp",
+   "file": "File:Zhydachiv Jewish cemetery -01.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Zhydachiv_Jewish_cemetery_-01.jpg",
+   "license": "CC0",
+   "author": "יעקב~yiwiki",
+   "kevarim": [
+    "ateret-tzvi-zidichov",
+    "isaac-isaac-zidichov"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__zhytomyr-jew-cemetery-2.webp",
+   "file": "File:Zhytomyr jew cemetery 2.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Zhytomyr_jew_cemetery_2.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "V1snyk",
+   "kevarim": [
+    "toldos-aharon-zhitomir"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/europe/town__zinkiv-jewish-cemetery-memorial-sign.webp",
+   "file": "File:Zinkiv. Jewish cemetery. Memorial sign.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Zinkiv._Jewish_cemetery._Memorial_sign.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "В.Камозин",
+   "kevarim": [
+    "rabbi-yitzchak-meir-zinkov"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/places/kevarim/barbados-nidhe-israel.webp",
+   "file": "File:31 Dec 2011 - Bridgetown Synagogue Cemetery.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:31_Dec_2011_-_Bridgetown_Synagogue_Cemetery.JPG",
+   "license": "CC0",
+   "author": "Bizzurp",
+   "kevarim": [
+    "nidhe-israel-barbados"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/places/kevarim/curacao-beth-haim.webp",
+   "file": "File:Beth Haim Graeber1.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:Beth_Haim_Graeber1.JPG",
+   "license": "Public domain",
+   "author": "Janericloebe",
+   "kevarim": [
+    "beit-haim-curacao"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/places/kevarim/fes-jewish-cemetery.webp",
+   "file": "File:Jewish cemetery Fes 18022021 021.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Jewish_cemetery_Fes_18022021_021.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Yamen",
+   "kevarim": [
+    "aderes-eliyahu-fes",
+    "yaavetz-morocco"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/places/kevarim/kiryas-joel-satmar.webp",
+   "file": "File:Grave of Grand Rabbi Joel Teitelbaum (R) and his wife, Rebbetzin Alte Feiga Teitelbaum (L) in Kiryas Joel Cemetery.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Grave_of_Grand_Rabbi_Joel_Teitelbaum_(R)_and_his_wife,_Rebbetzin_Alte_Feiga_Teitelbaum_(L)_in_Kiryas_Joel_Cemetery.jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "Original uploader was Itzik18 at en.wikipedia",
+   "kevarim": [
+    "satmar-rebbe-monroe"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/places/kevarim/mexico-city-panteon-israelita.webp",
+   "file": "File:Panteón Israelita - 001.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Pante%C3%B3n_Israelita_-_001.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "This picture has been taken by Oleg Yunakov. Contact e-ma",
+   "kevarim": [
+    "panteon-jardin-mexico"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/places/kevarim/queens-ohel.webp",
+   "file": "File:אהל הרבי מליובאוויטש.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:%D7%90%D7%94%D7%9C_%D7%94%D7%A8%D7%91%D7%99_%D7%9E%D7%9C%D7%99%D7%95%D7%91%D7%90%D7%95%D7%95%D7%99%D7%98%D7%A9.JPG",
+   "license": "CC BY-SA 3.0",
+   "author": "משתמש:אבגד",
+   "kevarim": [
+    "ohel-queens"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "/places/kevarim/tuyserkan-habakkuk.webp",
+   "file": "File:Habakkuk Tomb, Tuyserkan (2022).jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Habakkuk_Tomb,_Tuyserkan_(2022).jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Parsa 2au",
+   "kevarim": [
+    "chavakuk-hanavi"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  },
+  {
+   "photo": "https://kosher-travel-img.sites.tab.bot/wm/20952587197865d4.webp",
+   "file": "File:Sadhora, Jewish cemetery -02.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Sadhora,_Jewish_cemetery_-02.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "O.Denysenko",
+   "kevarim": [
+    "ruzhiner-rebbe-sadigura",
+    "avraham-yaakov-sadigura"
+   ],
+   "checked": "by eye, Oct 26 2026"
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Support | Kosher Travel</title>
+<meta name="description" content="Help with the Kosher Travel app and website: contact us, sign-in, deleting your account and reporting a post.">
+<link rel="canonical" href="https://www.yourkoshertravel.com/support">
+<meta name="robots" content="index, follow">
+<link rel="icon" href="/favicon.ico">
+<style>
+:root{--navy:#191e3b}
+*{box-sizing:border-box}
+body{margin:0;background:#fff;color:#1e293b;font:16px/1.65 "Plus Jakarta Sans",system-ui,-apple-system,Segoe UI,Roboto,sans-serif;-webkit-text-size-adjust:100%}
+header{border-bottom:1px solid #e2e8f0;padding:12px 20px}
+header a{color:var(--navy);font-weight:700;text-decoration:none;display:inline-flex;align-items:center;min-height:44px}
+main{max-width:720px;margin:0 auto;padding:24px 20px 40px}
+h1{font-family:Lora,Georgia,"Times New Roman",serif;color:var(--navy);font-size:32px;line-height:1.2;margin:8px 0 4px}
+h2{font-family:Lora,Georgia,"Times New Roman",serif;color:var(--navy);font-size:21px;margin:32px 0 8px;padding-top:16px;border-top:1px solid #e2e8f0}
+p,li{color:#334155}
+ul{padding-left:22px}
+a{color:var(--navy)}
+.meta{color:#64748b;font-size:14px;margin:0 0 20px}
+footer{border-top:1px solid #e2e8f0;text-align:center;color:#64748b;font-size:13px;padding:18px 20px 32px}
+footer a{display:inline-flex;align-items:center;min-height:44px;padding:0 10px;color:#475569}
+</style>
+</head>
+<body>
+<header><a href="/">&larr;&nbsp; Kosher Travel</a></header>
+<main>
+<h1>Support</h1>
+<p class="meta">Help for the Kosher Travel iPhone app and the website www.yourkoshertravel.com</p>
+<p>We're happy to help. Email <a href="mailto:yourkoshertravel@gmail.com">yourkoshertravel@gmail.com</a> or use <a href="/?contact=1">Contact us</a>, and we'll reply by email, usually within a day or two.</p>
+
+<h2>Signing in</h2>
+<p>You can sign in with your email and a password, with Google, or (in the iPhone app) with Apple. The app and the website use the same account, so your trips, saved posts and preferences follow you. Forgot your password? On the sign-in screen tap <strong>Forgot password</strong> and we'll email you a link.</p>
+
+<h2>Deleting your account</h2>
+<p>Open your profile, tap <strong>Settings</strong>, then <strong>Delete account</strong>. This deletes your sign-in and your posts, photos, comments, likes, reviews, saved posts, trips, planner chats and preferences. It can't be undone. You can also email us and we'll delete it for you.</p>
+
+<h2>Reporting a post or comment</h2>
+<p>Tap the three dots on the post and choose <strong>Report</strong>. The author is never told who reported it. For a copyright complaint, see our <a href="/terms">Terms of Use</a>.</p>
+
+<h2>Kosher information</h2>
+<p>We work hard to keep listings accurate, but places change. A listing is not a kashrus certification: always confirm the current hechsher and hours with the place before you rely on them. Spotted something wrong? Tell us and we'll fix it.</p>
+
+<h2>The AI trip planner</h2>
+<p>The planner's answers are written by an AI service and may contain mistakes. Check anything important before you travel. See <a href="/privacy">Privacy</a> for what the planner receives.</p>
+</main>
+<footer>
+<div>&copy; 2026 Kosher Travel. All rights reserved.</div>
+<nav aria-label="Legal"><a href="/terms">Terms</a> &middot; <a href="/privacy">Privacy</a> &middot; <a href="/support">Support</a> &middot; <a href="/?contact=1">Contact us</a></nav>
+</footer>
+</body>
+</html>

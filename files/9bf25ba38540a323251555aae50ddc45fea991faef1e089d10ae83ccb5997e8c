@@ -1,0 +1,21 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "46MB33SVM3.com.yourkoshertravel.app"
+        ],
+        "appID": "46MB33SVM3.com.yourkoshertravel.app",
+        "components": [
+          {
+            "/": "*"
+          }
+        ],
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}

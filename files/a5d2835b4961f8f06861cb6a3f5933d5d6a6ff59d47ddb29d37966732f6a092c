@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Not found · Kosher Travel</title>
+<meta name="robots" content="noindex">
+<style>
+  html,body{margin:0;height:100%;background:#fff;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;color:#0f172a}
+  main{min-height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:24px;box-sizing:border-box}
+  h1{font-size:22px;margin:16px 0 6px}
+  p{font-size:15px;color:#475569;margin:0 0 22px;max-width:320px;line-height:1.4}
+  a{display:flex;align-items:center;justify-content:center;min-height:48px;width:100%;max-width:320px;border-radius:14px;background:#191e3b;color:#fff;text-decoration:none;font-weight:600;font-size:16px}
+  img{width:64px;height:64px;border-radius:14px}
+</style>
+</head>
+<body>
+<main>
+  <img src="/icon-192.png" alt="">
+  <h1 id="t">Page not found</h1>
+  <p id="m">This link doesn't open anything on Kosher Travel.</p>
+  <a href="/">Back to home</a>
+</main>
+<script>
+  if (/^\/trips?\//i.test(location.pathname)) {
+    document.getElementById('t').textContent = 'Trip not found';
+    document.getElementById('m').textContent = "This trip link doesn't work anymore. Ask whoever shared it for a new link.";
+  }
+</script>
+</body>
+</html>
